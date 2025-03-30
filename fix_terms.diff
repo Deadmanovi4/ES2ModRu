@@ -1,0 +1,23 @@
+diff --git a/ES2_Localization_ESG16_1-3-1.xml b/ES2_Localization_ESG16_1-3-1.xml
+--- a/ES2_Localization_ESG16_1-3-1.xml (old-translation)
++++ b/ES2_Localization_ESG16_1-3-1.xml (new-translation)
+@@ -2,7 +2,7 @@
+ <Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schemas/LocalizationPair.xsd">
+   <!-- Defensive Trait -->
+   <LocalizationPair Name="%ShipStatBonus2DefensiveTitle">Вспомогательный</LocalizationPair>
+-  <LocalizationPair Name="%ShipStatBonus2DefensiveDescription">+10% к прочности корабля, +10% к заряду щита, +10% к защите обшивки и щитов</LocalizationPair>
++  <LocalizationPair Name="%ShipStatBonus2DefensiveDescription">+10% к прочности корпуса, +10% к заряду щита, +10% к поглощению урона бронёй корпуса и щитами</LocalizationPair>
+ 
+   <!-- Protector Trait -->
+   <LocalizationPair Name="%ShipStatBonus2ProtectorTitle">Защитник</LocalizationPair>
+@@ -18,7 +18,7 @@
+ 
+   <!-- Crew Defense Protocol -->
+   <LocalizationPair Name="%PlayEffectManpowerAbsorptionIncreaseEffectOverride">-25% Защита и урон на флот</LocalizationPair>
+-  <LocalizationPair Name="%PlayDefensiveBalancedManpowerAbsorptionIncreaseDescription">Корабли сосредоточивают треть своей энергетической мощи на собледении протоколов спасения жизни экипажа, в следствии чего теряют часть мощности вооружения и защитных модулей.</LocalizationPair>
++  <LocalizationPair Name="%PlayDefensiveBalancedManpowerAbsorptionIncreaseDescription">Корабли сосредоточивают треть мощности на протоколах защиты экипажа, теряя часть эффективности вооружения и защиты.</LocalizationPair>
+   
+   <!-- Пожиратели -->
+   <LocalizationPair Name="%FactionTraitEmpirePointPerCPDestroyedDescription">Возможно единственное, что хоть ненадолго может притупить ненасытный голод, - это желание подчиняться приказам Королевы.</LocalizationPair>
+@@ -26,3 +26,4 @@
+ </Datatable>
