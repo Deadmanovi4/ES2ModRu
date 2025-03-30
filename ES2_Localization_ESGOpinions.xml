@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSagaciousTitle">Magisterials</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiPacifistDescription">The pacifist agenda is a well-meaning but dangerous philosophy, after all not all conflicts can be resolved peacefully.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiReligiousDescription">There has been no greater impediment to a civilization's progress than superstitious beliefs.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiScientistDescription">Unrestrained research can often lead to dangerous ideologies like social darwinism and is harmful to those being experimented on.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitCuriousDescription">By studying behaviors and understanding what motivates our decisions, we learn to live together.</LocalizationPair>
+   <LocalizationPair Name="%PopulationPoliticalTraitCuriousTitle">Sociologists</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitEcologistDescription">The environment is beautiful and inherently valuable, it must be protected.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitEcologistToReligiousDescription">Our lands are sacred; we must protect them from harm at all costs.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistDescription">A healthy society is an industrial society, where goods are cheap and easily accesible.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistToPacifistDescription">The trade of mass produced goods can only result in everyone benefiting.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistToReligiousDescription">The creation of religious monuments brings tourism revenue, creates jobs and the finished product reminds everyone of what's important.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustryToScienceDescription">The only way to stay competitive in an industrial environment is through modernization and innovation.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustryToScienceTitle">This shouldn't show up?</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToEcologistDescription">Nature is the best teacher of all things warfare.  </LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToEcologistTitle">Predators</LocalizationPair>
+  
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToReligiousDescription">Religion and superstition maintain our spirits and morale even during the darkest times.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToReligiousTitle">Resolute</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitOptimisedDescription">Every scar of industry on the land, sea, or air, is a reminder that we must preserve, not squander, the environment for we cannot live without it.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitOptimisedTitle">Preservationists</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistDescription">Peace brings tranquility and economic growth to all.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToEcologistDescription"> The desire to preserve the environment is a great motivator for peace.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToEcologistTitle">Caretakers</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToIndustrialistDescription">There is no better way to increase profit and trade than by investing in the economic staple that is industry.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPiousDescription">A religious cause can bring as together and motivate us to help our fellow man.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitRelativistTitle">Mystics</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousDescription">Each of us is a receptacle of a greater truth, a vessel through which a greater purpose may resonate.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousToEcologistDescription">We draw our strength from the nature and cosmos that birthed us, we are nothing without them.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousToPacifistDescription">Life must be lived in a tranquil, ordered fashion to maintain harmony and elevate our spirits.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSagaciousDescription">Industrial development allows us to stay on top of our opponents through bigger, better armies.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToEcologistDescription">Understanding nature allows us to understand ourselves and the universe.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToIndustrialistDescription">The only way to build better research facilities and to bring science to the common man is through industrial development.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToIndustrialistTitle">Technophiles</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToPacifistDescription">We advance faster when everyone is willing to cooperate and share their research</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToPacifistTitle">Collaborators</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientistDescription">Science is the best way by which we can understand the world.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSearcherDescription">The only way to stay competitive in an industrial environment is through modernization and innovation.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitWarmongerDescription">Science proggresses at a significantly faster rate during war.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitWarmongerTitle">Realists</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitWaryDescription">The more an empire promotes a peaceful agenda, the more it opens itself up for attack. Militarization is the correct response to pacifist acts.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitWaryTitle">This shouldn't show up?</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitXenophobicDescription">Conflict comes to every civilization; so it is wise to be always prepared.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitXenophobicTitle">Wary</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristDescription">One cannot trully trust the actions and motivations of other nations.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitAggressiveDescription">The art of war promotes aggressive and unrestrained industialisation.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitAggressiveTitle">Aggressive </LocalizationPair>
+</Datatable>

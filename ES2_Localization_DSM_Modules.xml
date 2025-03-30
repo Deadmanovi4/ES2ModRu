@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+	<!-- Module Strings -->
+	<LocalizationPair Name="%ModuleSupportMiningProbeType1Title">Mining Probes</LocalizationPair>
+	<LocalizationPair Name="%ModuleSupportMiningProbeType2Title">Harvest Probes</LocalizationPair>
+	<LocalizationPair Name="%ClassMiningProbeTitle">Launches Mining Probes on a planet to exploit all the Resource deposits for which you have the technology.</LocalizationPair>	
+
+	<LocalizationPair Name="%ModuleMiningEquipmentLaserTitle">Mining Laser</LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel1Title">Fuel Processor</LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel2Title">Containment Field Generator</LocalizationPair>	
+	<LocalizationPair Name="%MiningProbeEnhancerTitle">Probe Compartment</LocalizationPair>
+			
+	<!-- Errors -->
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningProbeModuleDescription">Only one Probe module can be fitted.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningLaserModuleDescription">Only one mining laser can be fitted.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningFuel1ModuleDescription">Only one fuel processor module can be fitted.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningFuel2ModuleDescription">Only one containment field generator module can be fitted.</LocalizationPair>		
+	<LocalizationPair Name="%FailureRequiresMiningProbeModuleDescription">Requires Probe module.</LocalizationPair>		
+	
+	
+	<!-- Panel Features -->
+	<LocalizationPair Name="%PanelFeatureModuleMiningEffectsTitle">Mining</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleMiningProbePlanetStatsMultiplierTitle">Planet FIDS harvested</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleMiningProbeDepositValueMultiplierTitle">Mining efficiency</LocalizationPair>			
+	<LocalizationPair Name="%ModuleMiningEquipmentLaserDescription">Mines 50% of a special node's Titanium, Adamantian and Orichalcix. A node cannot be exploited more than 100% </LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel1Description">Harvest 50% of a special node's Hyperium. A node cannot be exploited more than 100% </LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel2Description">Harvest 50% of a special node's Antimatter and Quadrinix. A node cannot be exploited more than 100% </LocalizationPair>	
+	<LocalizationPair Name="%ModuleMiningProbeEnhancerDescription">Increases probe stock by 2 and recovery rate by 100%.</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleEffectsSupportMiningProbeStockTitle">Probes</LocalizationPair>
+	
+	
+	<!-- Fleet Actions -->
+	<LocalizationPair Name="%LaunchMiningProbeFleetActionTitle">Launch Mining Operation</LocalizationPair>
+	<LocalizationPair Name="%LaunchMiningProbeFleetActionDescription">Send Mining Probes to harvest Resources each turn for several turns. They can be destroyed by enemy fleets, and are destroyed if the planet is colonized.</LocalizationPair>
+	
+	
+	
+</Datatable>

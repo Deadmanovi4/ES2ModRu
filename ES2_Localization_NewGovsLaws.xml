@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../../Documentation/Schemas/Amplitude.Unity.Localization.LocalizationDatatableElement.xsd">
+
+  <!--Contains the new texts for the mod. If there is juste English language, it will be use for all localisations -->
+    <LocalizationPair Name="%GovernmentOligarchyTitle">Oligarchy</LocalizationPair>
+    <LocalizationPair Name="%GovernmentOligarchyDescription">A centralize government rule by the few, disguised as a democracy. Where the people vote for candidates, but the Elite decides who wins. </LocalizationPair>
+    <LocalizationPair Name="%GovernmentOligarchyFormat">The Galactic Council of {0}</LocalizationPair>
+    <LocalizationPair Name="%Anti-Rebellion">Immune to Rebellion</LocalizationPair>
+    <LocalizationPair Name="%resourceBonus">+1 Resource generation and +1 Dust per Resource Deposit</LocalizationPair>
+    
+    <!--election actions-->
+    
+    <LocalizationPair Name="%OligarchyActionTitle">RIG THE ELECTION</LocalizationPair>
+    <LocalizationPair Name="%OligarchyActionDescription">Provides a [green]powerful penalty#REVERT# to other parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionPolice1">RALLY SUPPORTERS</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionPolice1Description">Provides a [green]small boost#REVERT# to your parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionPolice2">SUPPRESS OPPOSITION</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionPolice2Description">Provides a [green]strong penalty#REVERT# to other parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionCorp01">BRIBE</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionCorp01Description">Provides a [green]small boost#REVERT# to your parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionCorp02">SMEAR CAMPAIGN</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionCorp02Description">Provides a [green]strong penalty#REVERT# to other parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMonarchy01">CAMPAIGN</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMonarchy01Description">Provides a [green]small boost#REVERT# to your parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMonarchy02">PROPAGANDA CAMPAIGN</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMonarchy02Description">Provides a [green]strong penalty#REVERT# to other parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMilitary01">CAMPAIGN</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMilitary01Description">Provides a [green]small boost#REVERT# to your parties.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMilitary02">SUPPRESS OPPOSITION</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMilitary02Description">Provides a [green]strong penalty#REVERT# to other parties.</LocalizationPair>
+    
+    <!--Autocracy-->
+    <LocalizationPair Name="%GovernmentDictatorshipCraversFormat">The Kingdom of {0}</LocalizationPair>
+    
+    <!--Monarch-->
+    <LocalizationPair Name="%GovernmentMonarchyTitle">Constitutional</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMonarchyDescription">A government in which the Head of State exercises authority in accordance with a written constitution.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMonarchyFormat">The United Systems of {0}</LocalizationPair>
+    
+    <!--Police-->
+    <LocalizationPair Name="%GovernmentPoliceTitle">Authoritarian</LocalizationPair>
+    <LocalizationPair Name="%GovernmentPoliceDescription">Authoritarian government is a form of government by a strong central power that values order and control over political freedoms.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentPoliceFormat">The Galactic Order of {0}</LocalizationPair>
+    
+    <!--Corp-->
+    <LocalizationPair Name="%GovernmentCorpTitle">Corporate Empire</LocalizationPair>
+    <LocalizationPair Name="%GovernmentCorpDescription">A corporate empire is a government that is rule by a corporation, whose power is expanded by the market.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentCorpFormat">{0} Intergalactic Corporation</LocalizationPair>
+    
+    <!--Military-->
+    <LocalizationPair Name="%GovernmentMilitaryTitle">Stratocracy</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMilitaryDescription">A form of military government in which civil and military service are indistinguishable, where the state and the military are traditionally or constitutionally the same entity.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMilitaryFormat">The Galactic Union of {0}</LocalizationPair>
+    
+    <!--Techno-->
+    <LocalizationPair Name="%GovernmentTechnoTitle">Technocracy</LocalizationPair>
+    <LocalizationPair Name="%GovernmentTechnoDescription">A government ruled by the educated and technical experts, where decision makers are selected based upon how knowledgeable and skillful they are in their field, no matter their political affiliation.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentTechnoFormat">The Directorate of {0}</LocalizationPair>
+    
+    <!--TooltipOverride-->
+    <LocalizationPair Name="%police">Rebellions Progress 50% Faster</LocalizationPair>
+    <LocalizationPair Name="%upkeep">Law Upkeep is FREE.</LocalizationPair>
+    <LocalizationPair Name="%colonization">Colonization is UNLIMITED.</LocalizationPair>
+    <LocalizationPair Name="%norep">No penalty for No Representation in Senate</LocalizationPair>
+    <LocalizationPair Name="%SystemManpowerStockTitle">System Manpower</LocalizationPair>
+    <LocalizationPair Name="%manpower">10 [happinessColored] for every 200 [manpowerColored]</LocalizationPair>
+    <LocalizationPair Name="%manpowerKeii">+5 Bonus [honorColored] gains after every battle for every 200 [manPowerColored]</LocalizationPair>
+    <LocalizationPair Name="%lawUpkeep">-25% Law Upkeep Cost</LocalizationPair>
+    <LocalizationPair Name="%admiralBonus">x2 Experience to Heroes assigned to Fleets</LocalizationPair>
+    <LocalizationPair Name="%StratoBonus">5% [FIDSI] Bonus per 200 System Manpower</LocalizationPair>
+    <LocalizationPair Name="%TechnoBonus">+1 [processingPower] and +1 [scienceColored] per [population]</LocalizationPair>
+    
+    
+    <!--Law-->
+    <LocalizationPair Name="%LawExampleTitle">Great Leap Forward Initiative</LocalizationPair>
+    <LocalizationPair Name="%LawExampleDescription">The Empire shall deprivatize farms and factories and conscript the people to work in them. Industry and agriculture will double, but the new "workers" might be less content.</LocalizationPair>
+    <LocalizationPair Name="%LawExampleShortTitle">Force Labor</LocalizationPair>
+
+    <!--Law2-->
+    <LocalizationPair Name="%LawExample2Title">Deprivatization of Educational Institutions Act</LocalizationPair>
+    <LocalizationPair Name="%LawExample2Description">All private educational institutions are seized by the Empire and open to the public to increase education and regulate a standard of education. All scientific research and projects are now run by the Empire.
+
+    Unfortunately, the more we placed regulations on an educated population, the more rebellious they may become.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample2ShortTitle">Free Education</LocalizationPair>
+    <!--Law3-->
+    <LocalizationPair Name="%LawExample3Title">Battle Royale Act</LocalizationPair>
+    <LocalizationPair Name="%LawExample3Description">Death row inmates, POWs, and political prisons are conscripted to compete in a series of games and death matches that shall be broadcast live, at the Empire’s expense.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample3ShortTitle">Free Games</LocalizationPair>
+
+    <!--Law4-->
+    <LocalizationPair Name="%LawExample4Title">Annulment of Senate Approval Decree</LocalizationPair>
+    <LocalizationPair Name="%LawExample4Description">All foreign affairs including trade, treaties, or any form of diplomatic declaration no longer need Senate Approval.
+
+    The Supreme Leader needs no approval.</LocalizationPair>
+    <LocalizationPair Name="%LawExample4ShortTitle">Free Diplomacy</LocalizationPair>
+
+    <!--Law5-->
+    <LocalizationPair Name="%LawExample5Title">Abolishment of the Free Press Decree</LocalizationPair>
+    <LocalizationPair Name="%LawExample5Description">No longer shall the media publish fabricated stories about the Supreme Leader. All media outlets are seized by the Empire and will promote true stories of our greatness.
+
+    With the media under our control, we can create more loyal citizens, but some may protest of the elimination of the free press.</LocalizationPair>
+    <LocalizationPair Name="%LawExample5ShortTitle">Propaganda</LocalizationPair>
+
+    <!--Law6-->
+    <LocalizationPair Name="%LawExample6Title">Political Repression Protocol</LocalizationPair>
+    <LocalizationPair Name="%LawExample6Description">The time has come. All unpatriotic citizens must be removed from power, public office, and the Empire itself. Only the loyal can remain.
+
+    This order is a drastic measure to ensure the power of the Empire, but the loss of life and leadership may have a severe effect on the Empire.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample6ShortTitle">Purge</LocalizationPair>
+
+    <!--Law7-->
+    <LocalizationPair Name="%LawExample7Title">Subjugation of Sub Races</LocalizationPair>
+    <LocalizationPair Name="%LawExample7Description">The aliens within our nation will no longer hold full citizenship. They can no longer hold public office or vote in our Senate elections. As long as they live within the Empire, they are required to maintain employment, serve in the military, and pay new taxes to continue their residency.
+
+    Subjugated Cravers no longer can deplete our worlds of its resources.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample7ShortTitle">Second Class Citizen</LocalizationPair>
+
+    <!--Law8-->
+    <LocalizationPair Name="%LawExample8Title">Slave Welfare Decree</LocalizationPair>
+    <LocalizationPair Name="%LawExample8Description">Though only food to the Hive, the living conditions of the slaves shall be improved, and harsh treatment shall be forbidden. Hopefully, this will prevent any future slave revolts.</LocalizationPair>
+    <LocalizationPair Name="%LawExample8ShortTitle">Happy Slaves</LocalizationPair>
+
+    <!--Law9-->
+    <LocalizationPair Name="%Law9Title">Gladiatorial Games Act</LocalizationPair>
+    <LocalizationPair Name="%Law9Description">Slaves are conscripted to fight in arenas, satisfying the Hive's blood thirst with spectacle.</LocalizationPair>
+    <LocalizationPair Name="%Law9ShortTitle">Gladiators</LocalizationPair>
+
+    <!--subsidies-->
+    <LocalizationPair Name="%Law10ShortTitle">Food Bonus</LocalizationPair>
+    <LocalizationPair Name="%Law10Description">Producers of food are given subsidies to increase their output.</LocalizationPair>
+    <LocalizationPair Name="%Law10Title">Agriculture Subsidies</LocalizationPair>
+
+    <LocalizationPair Name="%Law11ShortTitle">Industry Bonus</LocalizationPair>
+    <LocalizationPair Name="%Law11Description">Corporations are given subsidies to increase employment and productivity.</LocalizationPair>
+    <LocalizationPair Name="%Law11Title">Corporate Subsidies</LocalizationPair>
+
+    <LocalizationPair Name="%Law12ShortTitle">Science Bonus</LocalizationPair>
+    <LocalizationPair Name="%Law12Description">Institutions of education are given subsidies to increase enrollment and have better tools to educate the population.</LocalizationPair>
+    <LocalizationPair Name="%Law12Title">Education Subsidies</LocalizationPair>
+    
+    <LocalizationPair Name="%LawEssenceShortTitle">Essence Bonus</LocalizationPair>
+    <LocalizationPair Name="%LawEssenceDescription">The population is given financial incentives to sacrifice their essence.</LocalizationPair>
+    <LocalizationPair Name="%LawEssenceTitle">Essence Acquisition</LocalizationPair>
+
+    <!--defense and expansion-->
+    <LocalizationPair Name="%Law13Title">Emergency Defense Act</LocalizationPair>
+    <LocalizationPair Name="%Law13Description">In times of emergency, every healthy man and woman must serve in the defense of their country. The selectees are chosen by lotto and the military age requirement is lowered.</LocalizationPair>
+    <LocalizationPair Name="%Law13ShortTitle">The Draft</LocalizationPair>
+
+    <LocalizationPair Name="%Law14Title">Expansion Promotion Initiative</LocalizationPair>
+    <LocalizationPair Name="%Law14Description">From free housing to improved communication, every string is pulled to promote galactic expansion to the people.</LocalizationPair>
+    <LocalizationPair Name="%Law14ShortTitle">Larger Expansion</LocalizationPair>
+
+    <!--host games-->
+    <LocalizationPair Name="%Law15Title">FISA Games Act</LocalizationPair>
+    <LocalizationPair Name="%Law15Description">The Federal Intergalactic Sport Association has been connected to corruption, bribery, racketeering, wire fraud, and money laundering. But hosting their games promote patriotism and happiness.</LocalizationPair>
+    <LocalizationPair Name="%Law15ShortTitle">Host Games</LocalizationPair>
+
+    <!--taxes--> 
+    <LocalizationPair Name="%Law16Title">Tax Relief Law</LocalizationPair>
+    <LocalizationPair Name="%Law16Description">When the nation is experiencing great wealth but not prosperity, a tax cut is ideal to relieve the people.</LocalizationPair>
+    <LocalizationPair Name="%Law16ShortTitle">Cut Tax Act</LocalizationPair>
+
+    <LocalizationPair Name="%Law18Title">Luxury Tax Law</LocalizationPair>
+    <LocalizationPair Name="%Law18Description">Instead of an overall tax on income or all goods and services, only luxury goods are taxed.</LocalizationPair>
+    <LocalizationPair Name="%Law18ShortTitle">Luxury Tax</LocalizationPair>
+
+    <!--aliens-->
+    <LocalizationPair Name="%Law17Title">One Alien Child Policy</LocalizationPair>
+    <LocalizationPair Name="%Law17Description">Aliens are forbidden to have more than one child, while the original population are encouraged to reproduce with financial benefits.</LocalizationPair>
+    <LocalizationPair Name="%Law17ShortTitle">Purify</LocalizationPair>
+    
+    <LocalizationPair Name="%Law19Title">One Non-Alien Child Policy</LocalizationPair>
+    <LocalizationPair Name="%Law19Description">The original population are forbidden to have more than one child, while the alien population are encouraged to reproduce with financial benefits.</LocalizationPair>
+    <LocalizationPair Name="%Law19ShortTitle">Diversify</LocalizationPair>
+    
+    <LocalizationPair Name="%essenceGrowthTitle">Sacrificial Lamb Act</LocalizationPair>
+    <LocalizationPair Name="%essenceGrowthDescription">The population is mandated to sacrifice their essence, instead of producing more members.</LocalizationPair>
+    <LocalizationPair Name="%essenceGrowthShortTitle">Sacrifice</LocalizationPair>
+    
+    <!--MONARCHY    -->
+    <LocalizationPair Name="%MLaw1Title">Industrial Contract Initiative</LocalizationPair>
+    <LocalizationPair Name="%MLaw1Description">The construction of infrastructure is now open as a contract to private companies to compete for better prices.</LocalizationPair>
+    <LocalizationPair Name="%MLaw1ShortTitle">State Monopoly</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw2Title">Miliary Industrial Complex Decree</LocalizationPair>
+    <LocalizationPair Name="%MLaw2Description">An informal alliance between the nation's military and private industries to supply the military, at cheaper rates and better equipment.</LocalizationPair>
+    <LocalizationPair Name="%MLaw2ShortTitle">Privatize Military</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw3Title">Tariff Tax Act</LocalizationPair>
+    <LocalizationPair Name="%MLaw3Description">No one like new taxes, but with a percentage being used to help local startups and excepting the poorest businesses, the new taxes on intergalactic traders has no draw back.</LocalizationPair>
+    <LocalizationPair Name="%MLaw3ShortTitle">Tariffs</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw4Title">Nationist Day Decree</LocalizationPair>
+    <LocalizationPair Name="%MLaw4Description">A day of National Pride is mandated across the empire. Each governor will host parades, festivals, live games, and free food. </LocalizationPair>
+    <LocalizationPair Name="%MLaw4ShortTitle">We Love the King Day</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw5Title">Colonization and Exploration Initiative</LocalizationPair>
+    <LocalizationPair Name="%MLaw5Description">Colonist are incentivized to migrate with promises of free land in return for free labor towards colony ship construction.</LocalizationPair>
+    <LocalizationPair Name="%MLaw5ShortTitle">Great Expansion</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw6Title">Expedition Incentive Decree</LocalizationPair>
+    <LocalizationPair Name="%MLaw6Description">Upcoming engineers and explorers are to create probes and join expeditions in return for professional experience and a free meal.</LocalizationPair>
+    <LocalizationPair Name="%MLaw6ShortTitle">Great Expedition</LocalizationPair>
+    
+    <!--Suppression Laws-->
+    <LocalizationPair Name="%anindusTitle">Industrialist Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%anindusDescription">Unbounded industry can only lead to pollution, depletion, and a mechanistic outlook on life.</LocalizationPair>
+    <LocalizationPair Name="%anindusShortTitle">Anti-Industry</LocalizationPair>
+    
+    <LocalizationPair Name="%anecoTitle">Ecologist Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%anecoDescription">A civilization’s first duty is to its citizens, the natural world is replaceable.</LocalizationPair>
+    <LocalizationPair Name="%anecoShortTitle">Anti-Ecology</LocalizationPair>
+    
+    <LocalizationPair Name="%ansciTitle">Scientific Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%ansciDescription">Since the material real is only one reflection of a deeper reality, science is not be trusted absolutely.</LocalizationPair>
+    <LocalizationPair Name="%ansciShortTitle">Anti-Science</LocalizationPair>
+    
+    <LocalizationPair Name="%anrelTitle">Religious Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%anrelDescription">There is no greater threat to the progress of civilization than the belief in a higher power.</LocalizationPair>
+    <LocalizationPair Name="%anrelShortTitle">Anti-Religion</LocalizationPair>
+    
+    <LocalizationPair Name="%anmilTitle">Militarist Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%anmilDescription">The hunger for glory and vengeance will only lead to the burning of worlds.</LocalizationPair>
+    <LocalizationPair Name="%anmilShortTitle">Anti-Militarism</LocalizationPair>
+    
+    <LocalizationPair Name="%anpacTitle">Pacifist Suppression Act</LocalizationPair>
+    <LocalizationPair Name="%anpacDescription">The pacifist agenda is a well-meaning but dangerous philosophy.</LocalizationPair>
+    <LocalizationPair Name="%anpacShortTitle">Anti-Pacifism</LocalizationPair>
+    
+    <!--Promotion Laws-->
+    <LocalizationPair Name="%proindusTitle">Industrialist Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%proindusDescription">A healthy society is an industrial society, where wellbeing is predicated on large-scale construction.</LocalizationPair>
+    <LocalizationPair Name="%proindusShortTitle">Pro-Industry</LocalizationPair>
+    
+    <LocalizationPair Name="%proecoTitle">Ecologist Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%proecoDescription">We are but stewards of the worlds, whose natural beauty must be protected.</LocalizationPair>
+    <LocalizationPair Name="%proecoShortTitle">Pro-Ecology</LocalizationPair>
+    
+    <LocalizationPair Name="%prosciTitle">Scientific Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%prosciDescription">Science is the means by which we can understand the universe.</LocalizationPair>
+    <LocalizationPair Name="%prosciShortTitle">Pro-Science</LocalizationPair>
+    
+    <LocalizationPair Name="%prorelTitle">Religious Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%prorelDescription">Each of us is a vessel where the truth and the divine resonate.</LocalizationPair>
+    <LocalizationPair Name="%prorelShortTitle">Pro-Religion</LocalizationPair>
+    
+    <LocalizationPair Name="%promilTitle">Militarist Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%promilDescription">Conflict is inevitable, the only rational attitude is constant readiness.</LocalizationPair>
+    <LocalizationPair Name="%promilShortTitle">Pro-Militarism</LocalizationPair>
+    
+    <LocalizationPair Name="%propacTitle">Pacifist Promotion Act</LocalizationPair>
+    <LocalizationPair Name="%propacDescription">Civilizations will only truly thrive when they lay down their arms.</LocalizationPair>
+    <LocalizationPair Name="%propacShortTitle">Pro-Pacifism</LocalizationPair>
+    
+
+    <!--tips-->
+    <LocalizationPair Name="%LawEffectTip2"> 3  Manpower per Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip3"> 2  Dust and Industry per Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip4">-5  Happiness per Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip1">No  politcal support from Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%AlienNoGrowth">No growth for Foreign Population</LocalizationPair>
+    <LocalizationPair Name="%MajorNoGrowth">No growth for Original Population</LocalizationPair>
+
+    <LocalizationPair Name="%CraverLawTip1">-2  Dust per Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%CraverLawTip2"> 5  Approval per Non-Major Population</LocalizationPair>
+    <LocalizationPair Name="%CraverLawTip2"> 5  Approval per Craver Population</LocalizationPair>
+    
+    <LocalizationPair Name="%ownershipDecay">-100% on ownership decay rate on Systems</LocalizationPair>
+    
+    <LocalizationPair Name="%GovernmentMonarchyTooltipEffect">One unique law for each Political Party</LocalizationPair>
+    
+    <LocalizationPair Name="%anti-indus">Supresses [industrialistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-sci">Supresses [scientistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-eco">Supresses [ecologistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-rel">Supresses [religiousColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-peace">Supresses [pacifistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-war">Supresses [militaristColored]</LocalizationPair>
+    
+    <LocalizationPair Name="%pro-indus">Promotes [industrialistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-sci">Promotes [scientistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-eco">Promotes [ecologistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-rel">Promotes [religiousColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-peace">Promotes [pacifistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-war">Promotes [militaristColored]</LocalizationPair>
+    
+</Datatable>
