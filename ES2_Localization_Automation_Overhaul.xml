@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../../Documentation/Schemas/Amplitude.Unity.Localization.LocalizationDatatableElement.xsd">
+
+	<!-- Automation Overhaul -->
+	
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAutoTitle">Фабрика/лаборатория Planet Cracker (Автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAutoDescription">Растянувшись на сотни квадратных километров, при нормальной эксплуатации этот участок представляет собой массивный промышленный терраформирующий комплекс, перерабатывающий сырье системы. Однако за несколько дней это место можно превратить в обширную исследовательскую лабораторию, где работники плавно меняются ролями.</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAuto2Title">Срочные исследования ИИ (автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAuto2Description">Хорошая вещь в том, что суперумное программное обеспечение управляет вашими операциями по добыче полезных ископаемых, заключается в том, что, если возникнет необходимость, вы можете заставить свои алгоритмы ИИ отключать инструменты и направить его вычислительный ум на другие дела. Как наука.</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAuto2SophonsTitle">Базовая наука (Автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToScienceAuto2SophonsDescription">Софоны любят учиться, а глубоко под землей можно многому научиться. Хорошей новостью является то, что сверхинтеллектуальные системы искусственного интеллекта, помогающие вести глубокие шахты, могут переключать свое внимание на геологию, физику и магматические потоки, чтобы продвинуть науку по первому зову шахтера.</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAutoTitle">Общедоступная 3D-печать (автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAutoDescription">Позволив части вашей промышленной базы стать крупномасштабной службой 3D-печати для частных коммерческих инициатив, можно получить доход для имперской казны. Идеальный выбор, когда вам нужно преобразовать избыточные промышленные мощности в холодную твердую пыль. Просто следите за возмутительными 3D-дизайнами...</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAuto2Title">Трудовая политика в чрезвычайных ситуациях (Автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAuto2Description">Убедить большую часть вашей системы отказаться от свободного времени и вместо этого работать — непростая задача. Это требует глубокого понимания инопланетной психологии, мотивационных трюков и некоторых действительно крутых лозунгов. Однако, когда у вас есть такая возможность, доходы от Пыли — за счет промышленного производства — могут стать безумными. Сделай все снова великим!</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAuto2VenetiansTitle">Политический Театр (Автосборка)</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementIndustryToDustAuto2VenetiansDescription">Раздуть люмеровский скандал, из-за которого общесистемное промышленное производство рухнет до нуля, — рискованное дело, но дополнительные доходы, получаемые увлеченным населением, могут того стоить.</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorNoneDescription">Не автоматизирован</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorFoodDescription">Базовая автоматизация
+ - Ресурсы: Нет
+ - Приоритеты: [foodColored] [industryColored] [DustColored] [scienceColored] [happinessColored] [prestigeColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorIndustryDescription">Продвинутая Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] [Strat03adamantianColored] [Strat04anti-matterColored] for [FIDSI]
+ - Приоритеты: [foodColored] [industryColored] [DustColored] [scienceColored] [happinessColored] [prestigeColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorDustDescription">Пылевая Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [DustColored] [industryColored] [foodColored] [scienceColored] [prestigeColored]
+ - Приоритеты: [foodColored] [industryColored] [DustColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorScienceDescription">Научная Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [scienceColored] [industryColored] [foodColored] [DustColored] [prestigeColored]
+ - Приоритеты: [foodColored] [industryColored] [scienceColored]
+ - При завершении: [industryColored] → [scienceColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorInfluenceDescription">Автоматизация Влияния
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [prestigeColored] [industryColored] [foodColored] [DustColored] [scienceColored]
+ - Приоритеты: [foodColored] [industryColored] [prestigeColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorApprovalDescription">Автоматизация Одобрения
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [happinessColored] [industryColored] [foodColored] [DustColored] [scienceColored] [prestigeColored]
+ - Приоритеты: [foodColored] [industryColored] [happinessColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorMilitaryDescription">Военная Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [industryColored] [militaristColored]
+ - Приоритеты: [foodColored] [industryColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorFoodVodyaniDescription">Базовая Автоматизация
+ - Ресурсы: None
+ - Приоритеты: [industryColored] [DustColored] [scienceColored] [happinessColored] [prestigeColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorIndustryVodyaniDescription">Продвинутая Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] [Strat03adamantianColored] [Strat04anti-matterColored] for [industryColored] [DustColored] [scienceColored] [happinessColored] [prestigeColored]
+ - Приоритеты: [industryColored] [DustColored] [scienceColored] [happinessColored] [prestigeColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorDustVodyaniDescription">Пылевая Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [DustColored] [industryColored] [scienceColored] [prestigeColored]
+ - Приоритеты: [industryColored] [DustColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+   <LocalizationPair Name="%SystemSupervisorScienceVodyaniDescription">Научная Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [scienceColored] [industryColored] [DustColored] [prestigeColored]
+ - Приоритеты: [industryColored] [scienceColored]
+ - При завершении: [industryColored] → [scienceColored]</LocalizationPair>
+    <LocalizationPair Name="%SystemSupervisorInfluenceVodyaniDescription">Автоматизация Влияния
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [prestigeColored] [industryColored] [DustColored] [scienceColored]
+ - Приоритеты: [industryColored] [prestigeColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+   <LocalizationPair Name="%SystemSupervisorApprovalVodyaniDescription">Автоматизация Одобрения
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [happinessColored] [industryColored] [DustColored] [scienceColored] [prestigeColored]
+ - Приоритеты: [industryColored] [happinessColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+  <LocalizationPair Name="%SystemSupervisorMilitaryVodyaniDescription">Военная Автоматизация
+ - Ресурсы: [Strat01titaniumColored] [Strat02hyperiumColored] for [industryColored] [militaristColored]
+ - Приоритеты: [industryColored] [militaristColored]
+ - При завершении: [industryColored] → [dustColored]</LocalizationPair>
+    <LocalizationPair Name="%SystemSupervisorPopulationRebalanceDescription">Ребаланс населения
+ - Балансирует [population] между планетами
+ - Не автоматизировано</LocalizationPair>
+  <LocalizationPair Name="%ConstructibleConfirmationDefault">Вы уверены?</LocalizationPair>
+
+</Datatable>

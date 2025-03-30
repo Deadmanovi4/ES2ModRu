@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../../Documentation/Schemas/Amplitude.Unity.Localization.LocalizationDatatableElement.xsd">
+
+<!-- New Governments and Laws -->
+<LocalizationPair Name="%GovernmentOligarchyTitle">Олигархия</LocalizationPair>
+    <LocalizationPair Name="%GovernmentOligarchyDescription">Централизованное правительство, управляемое немногими, замаскированное под демократию. Где народ голосует за кандидатов, а элита решает, кто победит. </LocalizationPair>
+    <LocalizationPair Name="%GovernmentOligarchyFormat">Галактический Совет {0}</LocalizationPair>
+    <LocalizationPair Name="%Anti-Rebellion">Иммунитет к восстанию</LocalizationPair>
+    <LocalizationPair Name="%resourceBonus">+1 Генерированию Стратегических Ресурсов и +1 Пыли за каждый источник Стратегических Ресурсов</LocalizationPair>
+    
+    <!--election actions-->
+    	
+    <LocalizationPair Name="%OligarchyActionTitle">ПОДДЕЛАТЬ ВЫБОРЫ</LocalizationPair>
+    <LocalizationPair Name="%OligarchyActionDescription">Предоставляет [green]сильный штраф#REVERT# другим партиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionPolice1">ПОДДЕРЖКА МИТИНГА</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionPolice1Description">Предоставляет [green]малый бонус#REVERT# вашим партиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionPolice2">ПОДАВИТЬ ОППОЗИЦИЮ</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionPolice2Description">Предоставляет [green]сильный штраф#REVERT# другим патиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionCorp01">ПОДКУП</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionCorp01Description">Предоставляет [green]малый бонус#REVERT# вашим партиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionCorp02">КЛЕВЕТА</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionCorp02Description">Предоставляет [green]сильный штраф#REVERT# другим патиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMonarchy01">АГИТАЦИЯ</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMonarchy01Description">Предоставляет [green]малый бонус#REVERT# вашим партиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMonarchy02">ПРОПАГАНДА</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMonarchy02Description">Предоставляет [green]сильный штраф#REVERT# другим патиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMilitary01">АГИТАЦИЯ</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMilitary01Description">Предоставляет [green]малый бонус#REVERT# вашим партиям.</LocalizationPair>
+    
+    <LocalizationPair Name="%ElectionActionMilitary02">ПОДАВИТЬ ОППОЗИЦИЮ</LocalizationPair>
+    <LocalizationPair Name="%ElectionActionMilitary02Description">Предоставляет [green]сильный штраф#REVERT# другим патиям.</LocalizationPair>
+	
+	<!--Autocracy-->
+	<LocalizationPair Name="%GovernmentDictatorshipCraversFormat">Королевство {0}</LocalizationPair>
+	
+    <!--Monarch-->
+    <LocalizationPair Name="%GovernmentMonarchyTitle">Конституционный</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMonarchyDescription">Правительство, в котором глава государства осуществляет власть в соответствии с писаной конституцией.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMonarchyFormat">Объединенные системы {0}</LocalizationPair>
+    
+    <!--Police-->
+    <LocalizationPair Name="%GovernmentPoliceTitle">Авторитарный</LocalizationPair>
+    <LocalizationPair Name="%GovernmentPoliceDescription">Авторитарное правительство — это форма правления сильной центральной власти, которая ценит порядок и контроль над политическими свободами.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentPoliceFormat">Галактический Орден {0}</LocalizationPair>
+    
+    <!--Corp-->
+    <LocalizationPair Name="%GovernmentCorpTitle">Корпоративная империя</LocalizationPair>
+    <LocalizationPair Name="%GovernmentCorpDescription">Корпоративная империя — это правительство, управляемое корпорацией, чья власть расширяется за счет рынка.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentCorpFormat">Межгалактическая корпорация {0}</LocalizationPair>
+    
+    <!--Military-->
+    <LocalizationPair Name="%GovernmentMilitaryTitle">Стратократия</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMilitaryDescription">Форма военного правления, при которой гражданская и военная службы неразличимы, при которой государство и армия традиционно или конституционно являются одним и тем же образованием.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentMilitaryFormat">Галактический Союз {0}</LocalizationPair>
+    
+    <!--Techno-->
+    <LocalizationPair Name="%GovernmentTechnoTitle">Технократия</LocalizationPair>
+    <LocalizationPair Name="%GovernmentTechnoDescription">Правительство, управляемое образованными и техническими экспертами. Лица, принимающие решения, выбираются на основе их знаний и умений в своей области, независимо от их политической принадлежности.</LocalizationPair>
+    <LocalizationPair Name="%GovernmentTechnoFormat">Директорат {0}</LocalizationPair>
+    
+	<!--TooltipOverride-->
+    <LocalizationPair Name="%police">Процесс восстания на 50% быстрее</LocalizationPair>
+    <LocalizationPair Name="%upkeep">Поддержка законов БЕСПЛАТНА.</LocalizationPair>
+    <LocalizationPair Name="%colonization">Колонизация НЕ ОГРАНИЧЕНА.</LocalizationPair>
+    <LocalizationPair Name="%norep">Нет штрафа за отсутствие представительства в Сенате</LocalizationPair>
+    <LocalizationPair Name="%SystemManpowerStockTitle">Системные Трудовые Ресурсы</LocalizationPair>
+    <LocalizationPair Name="%manpower">10 [happinessColored] за каждые 200 [manpowerColored]</LocalizationPair>
+    <LocalizationPair Name="%manpowerKeii">+5 дополнительных [honorColored] после каждой битвы за каждые 200 [manPowerColored]</LocalizationPair>
+    <LocalizationPair Name="%lawUpkeep">-25% Стоимость поддержки Законов</LocalizationPair>
+    <LocalizationPair Name="%admiralBonus">x2 опыта Героям во Флотах</LocalizationPair>
+    <LocalizationPair Name="%StratoBonus">+5% [FIDSI] за каждые 200 [manPowerColored] в Системе</LocalizationPair>
+	<LocalizationPair Name="%TechnoBonus">+1 [processingPower] и +1 [scienceColored] за [population]</LocalizationPair>
+	
+	
+	<!--Law-->
+    <LocalizationPair Name="%LawExampleTitle">Инициатива «Большой скачок вперед»</LocalizationPair>
+    <LocalizationPair Name="%LawExampleDescription">Империя деприватизирует фермы и фабрики и мобилизует людей для работы на них. Промышленность и сельское хозяйство удвоятся, но новые «рабочие» могут быть менее довольны.</LocalizationPair>
+    <LocalizationPair Name="%LawExampleShortTitle">Принудительный труд</LocalizationPair>
+    
+    <!--Law2-->
+    <LocalizationPair Name="%LawExample2Title">Закон о деприватизации учебных заведений</LocalizationPair>
+    <LocalizationPair Name="%LawExample2Description">Все частные учебные заведения захвачены Империей и открыты для публики, чтобы повышать уровень образования и регулировать уровень образования. Все научные исследования и проекты теперь находятся в ведении Империи.
+
+    К сожалению, чем больше мы налагаем ограничений на образованное население, тем более мятежным оно может стать.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample2ShortTitle">Бесплатное образование</LocalizationPair>
+    <!--Law3-->
+    <LocalizationPair Name="%LawExample3Title">Закон о королевской битве</LocalizationPair>
+    <LocalizationPair Name="%LawExample3Description">Приговоренные к смертной казни, военнопленные и политические тюрьмы призываются для участия в серии игр и смертельных схваток, которые будут транслироваться в прямом эфире за счет Империи.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample3ShortTitle">Бесплатные игры</LocalizationPair>
+    
+    <!--Law4-->
+    <LocalizationPair Name="%LawExample4Title">Аннулирование постановления Сената об утверждении</LocalizationPair>
+    <LocalizationPair Name="%LawExample4Description">Все иностранные дела, включая торговлю, договоры или любую форму дипломатической декларации, больше не требуют одобрения Сената.
+
+    Верховный лидер не нуждается в одобрении.</LocalizationPair>
+    <LocalizationPair Name="%LawExample4ShortTitle">Бесплатная Дипломатия</LocalizationPair>
+    
+    <!--Law5-->
+    <LocalizationPair Name="%LawExample5Title">Отмена Декрета о свободе печати</LocalizationPair>
+    <LocalizationPair Name="%LawExample5Description">СМИ больше не должны публиковать сфабрикованные истории о Верховном лидере. Все средства массовой информации захвачены Империей и будут продвигать правдивые истории о нашем величии.
+
+    Когда СМИ находятся под нашим контролем, мы можем создать более лояльных граждан, но некоторые могут протестовать против уничтожения свободной прессы.</LocalizationPair>
+    <LocalizationPair Name="%LawExample5ShortTitle">Пропаганда</LocalizationPair>
+    
+    <!--Law6-->
+    <LocalizationPair Name="%LawExample6Title">Протокол о политических репрессиях</LocalizationPair>
+    <LocalizationPair Name="%LawExample6Description">Время пришло. Все непатриотичные граждане должны быть отстранены от власти, государственных должностей и самой Империи. Только верные могут остаться.
+
+    Этот приказ является радикальной мерой для обеспечения могущества Империи, но потеря жизни и лидерства может иметь серьезные последствия для Империи.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample6ShortTitle">Очищение</LocalizationPair>
+    
+    <!--Law7-->
+    <LocalizationPair Name="%LawExample7Title">Покорение подрас</LocalizationPair>
+    <LocalizationPair Name="%LawExample7Description">Инопланетяне в нашей стране больше не будут иметь полного гражданства. Они больше не могут занимать государственные должности или голосовать на наших выборах в Сенат. Пока они живут в Империи, они обязаны сохранять работу, служить в армии и платить новые налоги, чтобы продолжать свое проживание.
+
+    Порабощенные Пожиратели больше не могут истощать ресурсы наших миров.
+    </LocalizationPair>
+    <LocalizationPair Name="%LawExample7ShortTitle">Второсортные жители</LocalizationPair>
+    
+    <!--Law8-->
+    <LocalizationPair Name="%LawExample8Title">Указ о благосостоянии рабов</LocalizationPair>
+    <LocalizationPair Name="%LawExample8Description">Хотя это всего лишь пища для Улья, условия жизни рабов должны быть улучшены, а жестокое обращение запрещено. Надеюсь, это предотвратит любые бунты рабов в будущем.</LocalizationPair>
+    <LocalizationPair Name="%LawExample8ShortTitle">Счастливые рабы</LocalizationPair>
+    
+    <!--Law9-->
+    <LocalizationPair Name="%Law9Title">Закон о гладиаторских играх</LocalizationPair>
+    <LocalizationPair Name="%Law9Description">Рабов призывают сражаться на аренах, утоляя кровожадность Улья зрелищем.</LocalizationPair>
+    <LocalizationPair Name="%Law9ShortTitle">Гладиаторы</LocalizationPair>
+    
+    <!--subsidies-->
+    <LocalizationPair Name="%Law10ShortTitle">Бонус Пропитания</LocalizationPair>
+    <LocalizationPair Name="%Law10Description">Производители продуктов питания получают субсидии на увеличение выпуска продукции.</LocalizationPair>
+    <LocalizationPair Name="%Law10Title">Субсидии для агрокультуры</LocalizationPair>
+    
+    <LocalizationPair Name="%Law11ShortTitle">Бонус Индустрии</LocalizationPair>
+    <LocalizationPair Name="%Law11Description">Корпорации получают субсидии для увеличения занятости и производительности.</LocalizationPair>
+    <LocalizationPair Name="%Law11Title">Корпоративные субсидии</LocalizationPair>
+    
+    <LocalizationPair Name="%Law12ShortTitle">Бонус Исследователей</LocalizationPair>
+    <LocalizationPair Name="%Law12Description">Учебным заведениям предоставляются субсидии для увеличения числа учащихся и улучшения инструментов для обучения населения.</LocalizationPair>
+    <LocalizationPair Name="%Law12Title">Субсидии для образования</LocalizationPair>
+    
+    <LocalizationPair Name="%LawEssenceShortTitle">Бонус сущности</LocalizationPair>
+    <LocalizationPair Name="%LawEssenceDescription">Населению даются финансовые стимулы жертвовать своей сущностью.</LocalizationPair>
+    <LocalizationPair Name="%LawEssenceTitle">Получение сущности</LocalizationPair>
+    
+    <!--defense and expansion-->
+    <LocalizationPair Name="%Law13Title">Закон о чрезвычайной обороне</LocalizationPair>
+    <LocalizationPair Name="%Law13Description">В чрезвычайных ситуациях каждый здоровый мужчина и женщина должны служить на защите своей страны. Отобранные выбираются по лотерее, и требования к призывному возрасту снижены.</LocalizationPair>
+    <LocalizationPair Name="%Law13ShortTitle">Призыв</LocalizationPair>
+    
+    <LocalizationPair Name="%Law14Title">Инициатива по продвижению расширения</LocalizationPair>
+    <LocalizationPair Name="%Law14Description">От бесплатного жилья до улучшенной связи, каждая струна дергается, чтобы способствовать галактической экспансии для людей.</LocalizationPair>
+    <LocalizationPair Name="%Law14ShortTitle">Расширение</LocalizationPair>
+    
+    <!--host games-->
+    <LocalizationPair Name="%Law15Title">Игры ФМСА</LocalizationPair>
+    <LocalizationPair Name="%Law15Description">Федеральная межгалактическая спортивная ассоциация была связана с коррупцией, взяточничеством, рэкетом, мошенничеством и отмыванием денег. Но проведение их игр способствует патриотизму и счастью.</LocalizationPair>
+    <LocalizationPair Name="%Law15ShortTitle">Чемпионат</LocalizationPair>
+    
+    <!--taxes--> 
+    <LocalizationPair Name="%Law16Title">Закон о налоговых льготах</LocalizationPair>
+    <LocalizationPair Name="%Law16Description">Когда нация испытывает большое богатство, но не процветание, снижение налогов идеально подходит для облегчения жизни людей.</LocalizationPair>
+    <LocalizationPair Name="%Law16ShortTitle">Налоговые льготы</LocalizationPair>
+    
+    <LocalizationPair Name="%Law18Title">Закон о налоге на роскошь</LocalizationPair>
+    <LocalizationPair Name="%Law18Description">Вместо общего налога на доход или всех товаров и услуг налогом облагаются только предметы роскоши.</LocalizationPair>
+    <LocalizationPair Name="%Law18ShortTitle">Налог на роскошь</LocalizationPair>
+    
+    <!--aliens-->
+	<LocalizationPair Name="%Law17Title">Политика одного инопланетного ребенка</LocalizationPair>
+    <LocalizationPair Name="%Law17Description">Инопланетянам запрещено иметь более одного ребенка, в то время как коренное население поощряется к размножению с финансовой выгодой.</LocalizationPair>
+    <LocalizationPair Name="%Law17ShortTitle">Очистка</LocalizationPair>
+    
+    <LocalizationPair Name="%Law19Title">Политика одного ребенка</LocalizationPair>
+    <LocalizationPair Name="%Law19Description">Первоначальному населению запрещено иметь более одного ребенка, в то время как чужеземному населению рекомендуется размножаться с финансовой выгодой.</LocalizationPair>
+    <LocalizationPair Name="%Law19ShortTitle">Размножение</LocalizationPair>
+    
+    <LocalizationPair Name="%essenceGrowthTitle">Закон о жертвенном агнце</LocalizationPair>
+    <LocalizationPair Name="%essenceGrowthDescription">Население обязано пожертвовать своей сущностью вместо того, чтобы производить больше населения.</LocalizationPair>
+    <LocalizationPair Name="%essenceGrowthShortTitle">Жертва</LocalizationPair>
+    
+    <!--MONARCHY    -->
+    <LocalizationPair Name="%MLaw1Title">Инициатива по промышленным контрактам</LocalizationPair>
+    <LocalizationPair Name="%MLaw1Description">Строительство инфраструктуры теперь открыто в качестве контракта с частными компаниями, чтобы конкурировать за лучшие цены.</LocalizationPair>
+    <LocalizationPair Name="%MLaw1ShortTitle">Гос. Монополия</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw2Title">Постановление о военно-промышленном комплексе</LocalizationPair>
+    <LocalizationPair Name="%MLaw2Description">Неформальный союз между вооруженными силами страны и частной промышленностью для снабжения вооруженных сил по более низким ценам и с лучшим оборудованием.</LocalizationPair>
+    <LocalizationPair Name="%MLaw2ShortTitle">Приватизировать военных</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw3Title">Закон о тарифном налоге</LocalizationPair>
+    <LocalizationPair Name="%MLaw3Description">Никому не нравятся новые налоги, но с учетом того, что процент используется для помощи местным стартапам и за исключением самых бедных предприятий, новые налоги на межгалактических трейдеров не имеют недостатков.</LocalizationPair>
+    <LocalizationPair Name="%MLaw3ShortTitle">Тарифы</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw4Title">Указ о Дне нации</LocalizationPair>
+    <LocalizationPair Name="%MLaw4Description">День национальной гордости провозглашен по всей империи. Каждый губернатор будет проводить парады, фестивали, живые игры и бесплатную еду. </LocalizationPair>
+    <LocalizationPair Name="%MLaw4ShortTitle">Мы любим день короля</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw5Title">Инициатива по колонизации и исследованию</LocalizationPair>
+    <LocalizationPair Name="%MLaw5Description">Колонистов поощряют мигрировать обещаниями бесплатной земли в обмен на бесплатную рабочую силу для строительства колониальных кораблей.</LocalizationPair>
+    <LocalizationPair Name="%MLaw5ShortTitle">Великая экспансия</LocalizationPair>
+    
+    <LocalizationPair Name="%MLaw6Title">Указ о поощрении экспедиции</LocalizationPair>
+    <LocalizationPair Name="%MLaw6Description">Будущие инженеры и исследователи должны создавать зонды и присоединяться к экспедициям в обмен на профессиональный опыт и бесплатную еду.</LocalizationPair>
+    <LocalizationPair Name="%MLaw6ShortTitle">Великая экспедиция</LocalizationPair>
+    
+    <!--Suppression Laws-->
+	<LocalizationPair Name="%anindusTitle">Закон о подавлении промышленников</LocalizationPair>
+    <LocalizationPair Name="%anindusDescription">Неограниченная промышленность может привести только к загрязнению, истощению и механистическому взгляду на жизнь.</LocalizationPair>
+    <LocalizationPair Name="%anindusShortTitle">Анти-Индустрия</LocalizationPair>
+    
+    <LocalizationPair Name="%anecoTitle">Закон о подавлении экологистов</LocalizationPair>
+    <LocalizationPair Name="%anecoDescription">Первый долг цивилизации перед своими гражданами, мир природы заменим.</LocalizationPair>
+    <LocalizationPair Name="%anecoShortTitle">Анти-Экология</LocalizationPair>
+    
+    <LocalizationPair Name="%ansciTitle">Закон о подавлении ученых</LocalizationPair>
+    <LocalizationPair Name="%ansciDescription">Поскольку материальное реальное является лишь одним из отражений более глубокой реальности, науке нельзя полностью доверять.</LocalizationPair>
+    <LocalizationPair Name="%ansciShortTitle">Анти-наука</LocalizationPair>
+    
+    <LocalizationPair Name="%anrelTitle">Закон о подавлении религиозников</LocalizationPair>
+    <LocalizationPair Name="%anrelDescription">Нет большей угрозы прогрессу цивилизации, чем вера в высшую силу.</LocalizationPair>
+    <LocalizationPair Name="%anrelShortTitle">Анти-религия</LocalizationPair>
+    
+    <LocalizationPair Name="%anmilTitle">Закон о подавлении милитаристов</LocalizationPair>
+    <LocalizationPair Name="%anmilDescription">Жажда славы и мести приведет лишь к сожжению миров.</LocalizationPair>
+    <LocalizationPair Name="%anmilShortTitle">Анти-милитаризм</LocalizationPair>
+    
+    <LocalizationPair Name="%anpacTitle">Закон о подавлении пацифистов</LocalizationPair>
+    <LocalizationPair Name="%anpacDescription">Пацифистская повестка — благонамеренная, но опасная философия.</LocalizationPair>
+    <LocalizationPair Name="%anpacShortTitle">Анти-пацифизм</LocalizationPair>
+    
+    <!--Promotion Laws-->
+    <LocalizationPair Name="%proindusTitle">Закон о поощрении промышленников</LocalizationPair>
+    <LocalizationPair Name="%proindusDescription">Здоровое общество — это индустриальное общество, где благополучие основано на крупномасштабном строительстве.</LocalizationPair>
+    <LocalizationPair Name="%proindusShortTitle">Про-индустрия</LocalizationPair> 
+    
+    <LocalizationPair Name="%proecoTitle">Закон о поощрении экологистов</LocalizationPair>
+    <LocalizationPair Name="%proecoDescription">Мы всего лишь управители миров, чья природная красота должна быть защищена.</LocalizationPair>
+    <LocalizationPair Name="%proecoShortTitle">Про-экология</LocalizationPair>
+    
+    <LocalizationPair Name="%prosciTitle">Закон о поощрении ученых</LocalizationPair>
+    <LocalizationPair Name="%prosciDescription">Наука — это средство, с помощью которого мы можем понять вселенную.</LocalizationPair>
+    <LocalizationPair Name="%prosciShortTitle">Про-наука</LocalizationPair>
+    
+    <LocalizationPair Name="%prorelTitle">Закон о поощрении религиозных</LocalizationPair>
+    <LocalizationPair Name="%prorelDescription">Каждый из нас — сосуд, в котором резонируют истина и божественное.</LocalizationPair>
+    <LocalizationPair Name="%prorelShortTitle">Про-религия</LocalizationPair>
+    
+    <LocalizationPair Name="%promilTitle">Закон о поощрении милитаристов</LocalizationPair>
+    <LocalizationPair Name="%promilDescription">Конфликт неизбежен, единственная рациональная позиция — постоянная готовность.</LocalizationPair>
+    <LocalizationPair Name="%promilShortTitle">Про-милитаризм</LocalizationPair>
+    
+    <LocalizationPair Name="%propacTitle">Закон о поощрении пацифистов</LocalizationPair>
+    <LocalizationPair Name="%propacDescription">Цивилизации будут по-настоящему процветать только тогда, когда они сложат оружие.</LocalizationPair>
+    <LocalizationPair Name="%propacShortTitle">Про-пацифизм</LocalizationPair>	
+    
+    
+    <!--tips-->
+    <LocalizationPair Name="%LawEffectTip2"> 3  Трудовые ресурсы на неосновное население</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip3"> 2  Пыли и Индустрии на неосновное население</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip4">-5  Одобрения на неосновное население</LocalizationPair>
+    <LocalizationPair Name="%LawEffectTip1">Нет политической поддержки от неосновного населения</LocalizationPair>
+    <LocalizationPair Name="%AlienNoGrowth">Неосновное население не увеличивается</LocalizationPair>
+    <LocalizationPair Name="%MajorNoGrowth">Первичное население не увеличивается</LocalizationPair>
+    
+    <LocalizationPair Name="%CraverLawTip1">-2  Пыли на неосновное население</LocalizationPair>
+    <LocalizationPair Name="%CraverLawTip2">+5  Одобрения на неосновное население</LocalizationPair>
+    <LocalizationPair Name="%CraverLawTip3">+5  Одобрения на население Пожиратели</LocalizationPair>
+    
+    <LocalizationPair Name="%ownershipDecay">-100% on ownership decay rate on Systems (неизвестно)</LocalizationPair>
+    
+    <LocalizationPair Name="%GovernmentMonarchyTooltipEffect">По одному уникальному закону из каждой Партии</LocalizationPair>
+    
+	<LocalizationPair Name="%anti-indus">Подавляет [industrialistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-sci">Подавляет [scientistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-eco">Подавляет [ecologistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-rel">Подавляет [religiousColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-peace">Подавляет [pacifistColored]</LocalizationPair>
+    <LocalizationPair Name="%anti-war">Подавляет [militaristColored]</LocalizationPair> 
+    
+    <LocalizationPair Name="%pro-indus">Поддерживает [industrialistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-sci">Поддерживает [scientistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-eco">Поддерживает [ecologistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-rel">Поддерживает [religiousColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-peace">Поддерживает [pacifistColored]</LocalizationPair>
+    <LocalizationPair Name="%pro-war">Поддерживает [militaristColored]</LocalizationPair>
+
+</Datatable>

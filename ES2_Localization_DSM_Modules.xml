@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../../Documentation/Schemas/Amplitude.Unity.Localization.LocalizationDatatableElement.xsd">
+
+	<!-- Module Strings -->
+	<LocalizationPair Name="%ModuleSupportMiningProbeType1Title">Шахтерские зонды</LocalizationPair>
+	<LocalizationPair Name="%ModuleSupportMiningProbeType2Title">Зонды-сборщики</LocalizationPair>
+	<LocalizationPair Name="%ClassMiningProbeTitle">Запускает зонд для сбора ресурсов планеты, блокируя его обычную генерацию. Требует исследование.</LocalizationPair>	
+
+	<LocalizationPair Name="%ModuleMiningEquipmentLaserTitle">Шахтерский лазер</LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel1Title">Переработчик топлива</LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel2Title">Генератор сдерживающего поля</LocalizationPair>	
+	<LocalizationPair Name="%MiningProbeEnhancerTitle">Отсек для зондов</LocalizationPair>
+			
+	<!-- Errors -->
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningProbeModuleDescription">Можно установить только один модуль зонда.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningLaserModuleDescription">Можно установить только один модуль шахтерского лазера.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningFuel1ModuleDescription">Можно установить только один модуль переработчика топлива.</LocalizationPair>		
+	<LocalizationPair Name="%FailureNoMoreThanOneMiningFuel2ModuleDescription">Можно установить только один модуль сдерживающего поля.</LocalizationPair>		
+	<LocalizationPair Name="%FailureRequiresMiningProbeModuleDescription">Нужен модуль зонда.</LocalizationPair>		
+	
+	
+	<!-- Panel Features -->
+	<LocalizationPair Name="%PanelFeatureModuleMiningEffectsTitle">Сбор ресурсов</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleMiningProbePlanetStatsMultiplierTitle">Добывает [fids] с планеты</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleMiningProbeDepositValueMultiplierTitle">Эффективность сбора полезных ресурсов</LocalizationPair>			
+	<LocalizationPair Name="%ModuleMiningEquipmentLaserDescription">Добывает 50% Титана, Адамантана и Орихалка с особого узла. Добыча не может превышать 100%. </LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel1Description">Добывает 50% Гиперия с особого узла. Добыча не может превышать 100%. </LocalizationPair>
+	<LocalizationPair Name="%ModuleMiningEquipmentFuel2Description">Добывает 50% Антиматерии и Квадриникса с особого узла. Добыча не может превышать 100%. </LocalizationPair>	
+	<LocalizationPair Name="%ModuleMiningProbeEnhancerDescription">Увеличивает количество зондов на 2 и ускоряет восстановление на 100%.</LocalizationPair>
+	<LocalizationPair Name="%PanelFeatureModuleEffectsSupportMiningProbeStockTitle">Зонды</LocalizationPair>
+	
+	
+	<!-- Fleet Actions -->
+	<LocalizationPair Name="%LaunchMiningProbeFleetActionTitle">Запустить операцию по сборе ресурсов</LocalizationPair>
+	<LocalizationPair Name="%LaunchMiningProbeFleetActionDescription">Отправляет шахтерские дроня для сбора ресурсов каждый ход в течении нескольких ходов. Они могут быть уничтожены вражеским флотом или если планета уже заселена.</LocalizationPair>
+
+</Datatable>

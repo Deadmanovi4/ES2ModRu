@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../../Documentation/Schemas/Amplitude.Unity.Localization.LocalizationDatatableElement.xsd">
+
+	<!-- Worthy Deeds -->
+	
+	<LocalizationPair Name="%Deeds_Wonder1-Objective">Постройте чудо «Бесконечный исследовательский парк и бесконечный мир» в одной из своих звездных систем.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Wonder2-Objective">Постройте чудо «Межгалактический технологический центр (МТЦ)» в одной из своих звездных систем.</LocalizationPair>
+	<!--<LocalizationPair Name="%Deeds_Wonder3-Objective">Build the wonder "Trade Clearing Bureau" in one of your star systems.</LocalizationPair>-->
+	<LocalizationPair Name="%Deeds_Wonder4-Objective">Постройте чудо «Министерство правды» в одной из своих звездных систем.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage4_A-Objective">Примите закон от каждой из политических партий $LawAmount с самого начала игры.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage4_B-Objective">Выкупите системы $SystemAmount , потратив влияние.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_A-Objective">Достигните $PopulationAmount населения в вашей империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_B-Objective">Разблокируйте 3-й уровень бонуса от количества населения в вашей Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_A-Objective">Успешно найдите $CuriosityAmount аномалий.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_B-Objective">Сделайте так, чтобы в вашей Империи было колонизировано $PlanetAmount планет.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_A-Objective">Разблокируйте $TechnologyAmount технологий.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_B-Objective">Разблокируйте $TechnologyAmount научных или исследовательских технологий.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_A-Objective">Имейте $ImprovementAmount уникальных улучшений звездной системы в вашей Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_B-Objective">Произведите $DustAmount пыли в одной системе.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_A-Objective">Управляйте не менее $SystemAmount системами в одном созвездии.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_B-Objective">Создайте $TradeCompaniesAmount торговые компании.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_A-Objective">Поднимите одного из своих Героев до уровня $LevelAmount.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_B-Objective">Выиграйте битвы на сумму $BattleAmount .</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_A-Objective">Вторгнуться в $SystemAmount систем.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_B-Objective">Уничтожить $PlanetAmount планет.</LocalizationPair>
+	
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_C-Objective">Достигните $HappinessObjectiveName [happinessColored] в своей Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_C-Objective">Обладать $Amount01Name аномалиями в вашей Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_C-Objective">Получите улучшения звездной системы $Amount01Name в своей Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_C-Objective">Достигните уровня модернизации $Amount01Name в одной из ваших систем.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_C-Objective">Иметь $Amount01Name [manPowerColored] #D0D0D0#Трудовых ресурсов#REVERT# в империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_C-Objective">Достичь продукции $Amount01Name [Strat05orichalcixColored] #A75DFA#Орихалка#REVERT# или [Strat06quadrinixColored] #1FBB71#Квадриникса#REVERT# в Империи.</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_C-Objective">Исследуйте $NeededPercentageName % Галактики</LocalizationPair>
+	
+	<LocalizationPair Name="%Deeds_Wonder1-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Wonder2-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<!--<LocalizationPair Name="%Deeds_Wonder3-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>-->
+	<LocalizationPair Name="%Deeds_Wonder4-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage4_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage4_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_A-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_B-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	
+	<LocalizationPair Name="%Deeds_Regular_EmpireDevelopment_Stage5_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage5_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage2_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_EconomyAndTrade_Stage3_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage3_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_Military_Stage4_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	<LocalizationPair Name="%Deeds_Regular_ScienceAndExploration_Stage2_C-Completed">Поздравляем! Вы достигли этого легендарного деяния!</LocalizationPair>
+	
+	<LocalizationPair Name="%StarSystemImprovementResearchToLifeforceTitle">Эрудиция для сущности</LocalizationPair>
+  	<LocalizationPair Name="%StarSystemImprovementResearchToLifeforceDescription">Большинство душ свободно отдают свою сущность, понимая, что своей жертвой они вносят свой вклад в высшую славу. Однако Церковь Виртуальных Святых — живая религия, и ее жажда сущности ненасытна. Одних жертв часто бывает недостаточно. Иногда необходимо предлагать стимулы схоластикам, прилежным и умным. Так и сделаем.</LocalizationPair>
+  	
+	<LocalizationPair Name="%StarSystemImprovementResearchToLifeforceTooltipEffect">50% [scienceColored] поглощается.
+25% [scienceColored] конвертируется в [lifeforceColored]</LocalizationPair>
+
+	<LocalizationPair Name="%SystemResearchFromResearchConversionTitle">Преобразование науки</LocalizationPair>
+	
+</Datatable>

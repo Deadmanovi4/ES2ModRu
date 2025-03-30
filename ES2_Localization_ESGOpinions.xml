@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSagaciousTitle">Магистрат</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiPacifistDescription">Пацифистское движение — благонамеренная, но опасная философия. Ведь не все конфликты можно решить мирным путем.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiReligiousDescription">Не было большей помехи для прогресса цивилизации, чем суеверные верования.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitAntiScientistDescription">Безудержное исследование часто может привести к возникновению опасных идеологий, таких как социальный дарвинизм. И навредить тем, над кем экспериментируют.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitCuriousDescription">Изучая поведение и понимая, что мотивирует наши решения, мы учимся жить вместе.</LocalizationPair>
+   <LocalizationPair Name="%PopulationPoliticalTraitCuriousTitle">Социологисты</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitEcologistDescription">Окружающая среда прекрасна и ценна сама по себе, ее необходимо беречь.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitEcologistToReligiousDescription">Наши земли священны; мы должны защищать их от вреда любой ценой.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistDescription">Здоровое общество — это индустриальное общество, где товары дешевые и легкодоступные.</LocalizationPair>
+ 
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistToPacifistDescription">Торговля товарами массового производства может принести пользу всем.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustrialistToReligiousDescription">Создание религиозных памятников приносит доход от туризма, создает рабочие места, а сами они напоминает людям о самом важном.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustryToScienceDescription">Единственный способ оставаться конкурентоспособным в промышленной среде — это модернизация и инновация.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitIndustryToScienceTitle">Это не должно отображаться?</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToEcologistDescription">Природа — лучший учитель во всем, что касается войны.  </LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToEcologistTitle">Хищники</LocalizationPair>
+  
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToReligiousDescription">Религия и суеверия поддерживают наш моральный и боевой дух, даже в самые темные времена.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristToReligiousTitle">Решительность</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitOptimisedDescription">Каждый клочок промышленности на суше, в море или в воздухе — это напоминание о том, что мы должны сохранять, а не разбазаривать окружающую среду. Потому что мы не можем жить без нее.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitOptimisedTitle">Защитники природы</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistDescription">Мир приносит всему спокойствие и экономический рост.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToEcologistDescription"> Стремление сохранить окружающую среду является отличным мотиватором мира.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToEcologistTitle">Смотрители</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPacifistToIndustrialistDescription">Нет лучшего способа увеличить прибыль и торговлю, чем инвестировать в главный продукт экономики - промышленность.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitPiousDescription">Религиозное дело может сплотить нас и мотивировать нас помогать ближнему.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitRelativistTitle">Мистики</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousDescription">Каждый из нас является вместилищем великой истины. Сосудом, через который резонирует великая цель.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousToEcologistDescription">Мы черпаем свою силу из природы и космоса, которые нас породили. Без них мы ничто.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitReligiousToPacifistDescription">Жизнь должна быть прожита в спокойной, упорядоченной манере, чтобы поддерживать гармонию и поднимать наш дух.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSagaciousDescription">Промышленное развитие позволяет нам оставаться на вершине наших противников за счет более крупных и лучших армий.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToEcologistDescription">Понимание природы позволяет нам понять самих себя и Вселенную.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToIndustrialistDescription">Единственный способ построить лучшие исследовательские центры и донести науку до простого человека — это развитие промышленности.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToIndustrialistTitle">Технофилы</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToPacifistDescription">Мы развиваемся быстрее, когда каждый готов сотрудничать и делиться своими исследованиями.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitScientificToPacifistTitle">Коллаборационист</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitScientistDescription">Наука — лучший способ понять мир.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitSearcherDescription">Единственный способ сохранить конкурентоспособность в промышленной среде — модернизация и инновации.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitWarmongerDescription">Наука прогрессирует значительно быстрее во время войны.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitWarmongerTitle">Реалисты</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitWaryDescription">Чем больше империя продвигает мирную повестку дня, тем более она открыта для нападения. Милитаризация — правильный ответ на пацифистские акты.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitWaryTitle">Это не должно отображаться?</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitXenophobicDescription">Конфликт приходит в каждую цивилизацию; поэтому разумно всегда быть готовым.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitXenophobicTitle">Осторожные</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitMilitaristDescription">Нельзя полностью доверять действиям и побуждениям других видов.</LocalizationPair>
+
+  <LocalizationPair Name="%PopulationPoliticalTraitAggressiveDescription">Искусство войны способствует агрессивной и безудержной индустриализации.</LocalizationPair>
+  <LocalizationPair Name="%PopulationPoliticalTraitAggressiveTitle">Агрессивные </LocalizationPair>
+</Datatable>

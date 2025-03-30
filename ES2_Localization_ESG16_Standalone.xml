@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schemas/LocalizationPair.xsd">
+<!-- This file is for Language-exclusive translations that translators are free to add.
+       Developers should NOT touch this file, unless they need to remove a localization pair because it was superceded
+       
+       TO MOD TRANSLATORS: Remove all the other localization pairs in this file, and put any general language-specific improvements you'd like inside this file. 
+       You do not have to use this file if you don't want to! Just delete it if you do not want to. -->
+  <LocalizationPair Name="%StarSystemImprovementDefense3Description">Лучшее управление различной плотностью магнитного потока в масштабах времени наносекундного порядка означает, что планетарные структуры могут иметь более надежную защиту под защитными полями. Кроме того, когда они не подвергаются атаке, эти щиты защищают войска от любого вредного окружающего излучения.</LocalizationPair>
+  <LocalizationPair Name="%Tutorial_UC_Invisibility2Page2Popup-Description">
+    Скрытые флоты могут быть обнаружены флотами с модулями обнаружения. Существует несколько уровней маскировки/обнаружения маскировки, и вы можете улучшить их, разблокировав соответствующую технологию.
+     Будьте бдительны, так как Корабль с достаточно мощным модулем Обнаружения Скрытности может даже раскрыть вашу Домашнюю Систему, если она находится на узле.
+  </LocalizationPair>
+  <LocalizationPair Name="%ShieldRegeneratePerSecondDynamicTitle">Регенерация щита в секунду</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleEffectsShieldRegeneratePerSecondTitle">#C48594#Зарядка щита каждую секунду во флотилии#REVERT#</LocalizationPair>
+  <LocalizationPair Name="%ShieldRegeneratePerSecondTitle">Регенерация шита в секунду во флотилии</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleEffectsShieldRegeneratePerSecondDynamicTitle">Восстановление щита каждую секунду</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleEffectsShieldReloadPerPhaseTitle">#C48594#Щит перезаряжается каждую фазу#REVERT#</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementScience1Title">Государственно-частное партнерство</LocalizationPair>
+  <LocalizationPair Name="%ProbesCostReductionTitle">Стоимость зонда</LocalizationPair>
+  <LocalizationPair Name="%ProbeSpeedTitle">Скорость зонда</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleRepairAfterBattleTitle">Ремонт корабля после битвы</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleRepairAfterPhaseTitle">Ремонт корабля после каждой фазы</LocalizationPair>
+  <LocalizationPair Name="%ModuleSupportFlotillaShield3Strategic6Title">Квадриниксовый щит флотилии</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleFlotillaRepairAfterBattleTitle">Починка флота после битвы</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureModuleFlotillaRepairAfterPhaseTitle">Починка флота после каждой фазы</LocalizationPair>
+  <LocalizationPair Name="%ShieldAbsorptionPercentTitle">Поглощение щитами</LocalizationPair>
+  <LocalizationPair Name="%HullPlatingAbsorptionPercentTitle">Поглощение обшивкой</LocalizationPair>
+  <LocalizationPair Name="%PanelFeaturePoliticalImpactTitle">Политическое влияние:</LocalizationPair>
+  <LocalizationPair Name="%PanelFeaturePoliticsExperienceTitle">Требуемый политический опыт:</LocalizationPair>
+  <LocalizationPair Name="%EmpireImprovementSubsidiaries1UmbralChoirDescription">Научившись более пристально сосредотачиваться в нескольких местах одновременно, Теневому Хору удается более эффективно управлять своей торговлей и преодолевать свои экономические недостатки.</LocalizationPair>
+  <LocalizationPair Name="%StarSystemImprovementOncePerEmpireTooltipEffect">[blue-gray](Может быть построен лишь раз в империи)#REVERT#</LocalizationPair>
+  <LocalizationPair Name="%LawEffectP05L00TooltipEffect">Вы можете атаковать и вторгаться на вражескую территорию, находясь в состоянии холодной войны.</LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationPlanetSuperPopulationFIDSIEffectOverride">x2 Изначальные [FIDSI] Планеты</LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationPlanetSuperPopulationEffectOverride">Считаются за 2 [populationColored] по отношению к потреблению [foodColored]
+(Создается только при похищении Спящих)</LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityTimeLordsTooltipEffect">(Может быть создан только через строительство в Системе)</LocalizationPair>
+  <LocalizationPair Name="%PopulationUpkeepTitle">[foodColored] Потребление</LocalizationPair>
+  <LocalizationPair Name="%PopulationGrowthUpkeepTitle">[foodColored] Потребление</LocalizationPair>
+  <LocalizationPair Name="%BonusPopulationGrowthConsumptionTitle">[foodColored] Потребление</LocalizationPair>
+  <LocalizationPair Name="%PanelFeaturePopulationCountStarSystemTitle">Всего популяции в Системе:</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureGrowthTurnsGainTitle">Ходов для роста:</LocalizationPair>
+  <LocalizationPair Name="%PanelFeatureGrowthTurnsLossTitle">Ходов перед потерей:</LocalizationPair>
+  <LocalizationPair Name="%PanelFeaturePopulationBoosterTitle">Предпочитаемая роскошь:</LocalizationPair>
+  <LocalizationPair Name="%PanelFeaturePopulationCountEmpireTitle">Всего в Империи:</LocalizationPair>
+  <LocalizationPair Name="%StarSystemSideRepresentativeTitle">Представители Системы:</LocalizationPair>
+  <LocalizationPair Name="%NumberOfActiveLawSlotsTitle">Слоты законов</LocalizationPair>
+  <LocalizationPair Name="%ActiveLawsUpkeepTitle">Расход на поддержание: #E3BDAC#{0}#REVERT#</LocalizationPair>
+  <LocalizationPair Name="%PopulationDetailsButtonTitle">Управление популяцией</LocalizationPair>
+  <LocalizationPair Name="%SciencePerTurnTitle">Науки в ход</LocalizationPair>
+  <LocalizationPair Name="%ScienceSurplusTitle">Научный избыток</LocalizationPair>
+  <LocalizationPair Name="%ResearchQueueTitle">Очередь исследований</LocalizationPair>
+  <LocalizationPair Name="%TechnologyStateNotAvailableTitle">Недоступно</LocalizationPair>
+  <LocalizationPair Name="%CollectionUnlockGroupTitle">Статус сбора</LocalizationPair>
+  <LocalizationPair Name="%EmpirePopulationTitle">Популяция Империи</LocalizationPair>
+</Datatable>

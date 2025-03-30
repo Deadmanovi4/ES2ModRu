@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Permanent Monsoon - Currently +2f/pop, -2h/pop, -2i/pop -->
+  <LocalizationPair Name="%PlanetAnomaly11Description">Хорошая новость: это богатая водой планета, поэтому она имеет большое значение для сельского хозяйства. Плохая новость: эта вода, как правило, доставляется вам в лицо ураганными ветрами, затапливая дороги и делая население мокрым и несчастным.</LocalizationPair>
+  
+  <!-- Metallic Waters - currently +1i/pop, -1f/pop, -2h/pop-->
+  <LocalizationPair Name="%PlanetAnomaly12Description">Озера и гейзеры этой планеты, богатые месторождениями меди, железа, цинка и других металлов, ошеломляют своим видом, но невыносимы для растительной жизни. По крайней мере, высокое содержание металлов в водах является благом для развития промышленности, так как путем простой фильтрации можно получать высокоочищенные руды.</LocalizationPair>
+  
+  <!-- Long season - currently -1d/pop -1f/pop -->
+  <LocalizationPair Name="%PlanetAnomaly18Description">С необычно длинным орбитальным эллипсом планета имеет очень длинные сезоны и, таким образом, подвержена экстремальному холоду зимой и жаре летом. В то время как некоторые люди настаивают на том, чтобы вы "привыкли к этому", погода создает проблемы для сельского хозяйства и повышает стоимость жизни.</LocalizationPair>  
+  
+  
+  <!-- Ancient Ruins - currently +4dust/pop -->
+  <LocalizationPair Name="%PlanetAnomaly29Description">Поисковые группы обнаруживают руины одной из многих древних цивилизаций, возникших и исчезнувших с момента рождения Вселенной. Несмотря на примитивность, строения прекрасны, и индустрия туризма может извлечь большую пользу из этой редкой находки.</LocalizationPair>
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly01Title">Улучшение Эдемского сада</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly01Description">Запустите аналитический центр, чтобы выяснить, как вы можете сделать этот мир еще лучше.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly01EnhancedTitle">Эдемский сад</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly01EnhancedDescription">Самым сложным в улучшении этой планеты было выяснить, как сделать идеальный мир еще лучше. В конечном счете, ваши экологи выбрали другой подход: мягкое время года на планете и отсутствие значительной тектонической активности сделали ее идеальной для строительства ряда хрупких куполов с контролируемым климатом, демонстрирующих экологию бесчисленного множества других миров, от выжженных пустынь до замерзшей тундры.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly02Title">Улучшение Пыльных руин</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly02Description">Оцепите пыльные руины и изучите их, прежде чем кто-то разграбит их ради богатства.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly02EnhancedTitle">Пыльные руины</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly02EnhancedDescription">Хотя первым побуждением лидеров местной промышленности было разграбить Пыльные руины ради их богатства, возобладало долгосрочное мышление, и вместо этого они были тщательно раскопаны и выставлены на всеобщее благо.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly03Title">Улучшение дружелюбных местных жителей</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly03Description">Работайте с коренным населением, чтобы построить более мультикультурное общество.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly03EnhancedTitle">Дружелюбные местные жители</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly03EnhancedDescription">Интегрируя коренных жителей и культуру планеты в свое общество с самого начала и действуя в качестве гостей, а не колонизаторов, население этого мира стало более восприимчивым к другим. Мультикультурное общество здесь — прекрасная рабочая среда для всех бесчисленных видов вашей империи.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly04Title">Улучшение богатой почвы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly04Description">Разрабатывайте новые методы ведения сельского хозяйства, характерные для этой планеты и ее уникального состава почвы.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly04EnhancedTitle">Богатая почва</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly04EnhancedDescription">В то время как сверхинтенсивные методы ведения сельского хозяйства рискуют истощить даже плодородную почву этого мира, изучение тропических лесных растений и почвенных бактерий позволило найти способы эффективного восстановления всех питательных веществ. Пищевая продуктивность планеты высочайшего уровня.</LocalizationPair>
+  
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly05Title">Улучшение минеральных месторождений</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly05Description">Используйте богатые месторождения полезных ископаемых этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly05EnhancedTitle">Минеральные месторождения</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly05EnhancedDescription">Обильная кора планеты стала благословением для экономики после того, как первоначальная беззаконная всеобщая свобода действий была обуздана. Теперь документы на землю правильно зарегистрированы, операции по добыче полезных ископаемых должным образом регулируются, и даже большая часть первоначального загрязнения атмосферы была очищена.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly06Title">Улучшение хадопелагической жизни</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly06Description">Построить глубоководную лабораторию, чтобы изучить удивительную океаническую жизнь планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly06EnhancedTitle">Хадопелагическая жизнь</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly06EnhancedDescription">Потребовалось немало усилий, учитывая откровенно убийственное давление, но вашей империи удалось построить сверхглубоководную лабораторию для изучения уникальных форм жизни на этой планете. Люди такие, какие они есть, вскоре за ними последовал самый глубокий подводный отель в галактике, безумное предприятие, которое, тем не менее, привлекает туристов со всего мира.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly07Title">Улучшение Колец Антонова</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly07Description">Создать рой спутников-собирателей, для сбора ценной Пыли с планетарных колец.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly07EnhancedTitle">Кольца Антонова</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly07EnhancedDescription">Считается, что эта полоса астероидов образовалась из разрушенных останков некогда колонизированной луны. Она является богатым источником Пыли и привлекает внимание научного сообщества.</LocalizationPair>
+  
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly08Title">Улучшение Колец Гюйгенса</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly08Description">Создать рой исследовательских спутников для изучения планетных колец.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly08EnhancedTitle">Кольца Гюйгенса</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly08EnhancedDescription">Остатки протопланетного диска, а теперь пронизанная исследовательскими спутниками, эта полоса астероидов представляет собой уникальный взгляд на существовавшее формирование планет.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly09Title">Улучшение полых планет Planet</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly09Description">Исследуйте сеть пещер и начните использовать подземные пространства.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly09EnhancedTitle">Полые планеты</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly09EnhancedDescription">Хотя новые, более глубокие пещеры все еще открываются по сей день, большинство обширных пещер планеты были исследованы, укреплены, изучены и перепрофилированы для промышленности, исследований или даже уникальных жилищ в галактике.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly10Title">Улучшение Льда-10</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly10Description">Изучите тайны Льда-10 и посмотрите, сможете ли вы использовать его.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly10EnhancedTitle">Лед-10</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly10EnhancedDescription">Лед-10 представляет собой редкую форму льда, образующуюся в результате кристаллизации воды под высоким давлением. Он интересен своими термодинамическими свойствами, которые были тщательно изучены, так что это увлекательное вещество теперь можно использовать в конструкции сверхпроводников.</LocalizationPair>
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly11Title">Улучшение постоянного муссона</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly11Description">Выводите новые виды сельскохозяйственных культур, которые могут расти в сезон дождей.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly11EnhancedTitle">Постоянный муссон</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly11EnhancedDescription">Когда-то очень влажная и очень сложная среда, согласованные усилия по частичному терраформированию планеты уменьшили силу ветров и штормов, и таким образом создали несколько из самых продуктивных ферм вашей империи.</LocalizationPair>
+
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly12Title">Улучшение металлических вод</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly12Description">Разверните линию искусственных бактерий, которые могут переносить условия планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly12EnhancedTitle">Металлические воды</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly12EnhancedDescription">Почти чистая, твердая, блестящая поверхность этой планеты раньше делала сельское хозяйство трудным и потенциально ядовитым. Недавно разработанные искусственные бактерии не только изолируют токсичные соли металлов из воды, но и упаковывают их и подают на блюдечке с голубой каемочкой для местной химической промышленности.</LocalizationPair>
+
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly13Title">Улучшение волн Авроры</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly13Description">Продвигайте новую индустрию туризма на этой планете.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly13EnhancedTitle">Волны Авроры</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly13EnhancedDescription">Сверкающие, разноцветные полярные сияния, которые когда-то вызывали такие головные боли, теперь приручены магнитным экранированием. Их красота остается нетронутой и привлекает туристов со всего мира.</LocalizationPair>
+
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly14Title">Улучшение плотной атмосферы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly14Description">Выборочно разводите новую макрофауну, чтобы воспользоваться преимуществами плотной атмосферы.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly14EnhancedTitle">Плотная атмосфера</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly14EnhancedDescription">Как известно любому ксенобиологу, более плотная атмосфера является одним из требований, необходимых животным для того, чтобы вырасти до гигантских размеров. Когда-то на этой планете не было таких титанов, но благодаря селекционному разведению у вас теперь есть несколько зверей, достаточно больших, чтобы вы могли отдать им пастбище, а не наоборот.</LocalizationPair>
+  
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly15Title">Улучшение психоактивного воздуха</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly15Description">Создать сеть систем фильтрации, чтобы уменьшить воздействие атмосферы планеты на ваше население.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly15EnhancedTitle">Психоактивный воздух</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly15EnhancedDescription">С атмосферой, которая когда-то была насыщена сложными химическими соединениями, жизнь на этой планете была сложной задачей. В наши дни огромные станции фильтрации гарантируют, что различные психоактивные соединения будут доступны только тогда, когда они желательны.</LocalizationPair>
+
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly16Title">Улучшение геотермальной активности</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly16Description">Погрузить термостержни глубоко в кору планеты, получая доступ к геотермальному теплу и уменьшая вулканическую опасность.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly16EnhancedTitle">Геотермальная активность</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly16EnhancedDescription">Применяя огромное количество энергии и борясь с гравитационными изменениями, ранее неконтролируемая геотермальная активность планеты на данный момент не только управляема, но и действительно полезна, поскольку каждая новая фабрика может иметь свой собственный геотермальный генератор.</LocalizationPair>
+
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly17Title">Улучшение сейсмической активности</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly17Description">Включите сеть столбцов гравитационного потока глубоко под корой, чтобы укротить сейсмические силы планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly17EnhancedTitle">Сейсмическая активность</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly17EnhancedDescription">Управляя магнитным ядром, стабилизируя дрейф континентов и совершенствуя методы строительства - проблемы повседневной жизни, вызванные сейсмической активностью, были в значительной степени решены. Вдобавок к этому в результате проекта появились некоторые удивительные новые научные разработки.</LocalizationPair>
+  
+  <!-- 18 is Long Season (Negative)  -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly18Title">Преобразование длительного сезона</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly18Description">Это может показаться безумием, но в вашем распоряжении достаточно сил — измените наклон оси планеты и сделайте смену времен года более терпимой!</LocalizationPair>
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly19Title">Улучшение метеоритных дождей</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly19Description">Улучшить свою оборонительную спутниковую сеть, чтобы захватывать и добывать метеоры.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly19EnhancedTitle">Метеоритный дождь</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly19EnhancedDescription">Ранее называвшиеся «спутниками-убийцами» теперь меньше похожи на убийц и больше на вратарей. Благодаря дешевым и надежным источникам энергии и инновациям в технологии щитов, прилетающие метеоры захватываются и из них добываются ценные рудные залежи.</LocalizationPair>
+  
+  <!-- 20 is Polar Tempests (Negative) -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly20Title">Преобразование полярных бурь</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly20Description">Усилить климат-контроль, пока полярные бури полностью не утихнут. Это сделает атмосферу в целом намного более плотной и более подходящей для выращивания сельскохозяйственных культур.</LocalizationPair>
+   
+  <!-- 21 is Strong Magnetic Field (Negative) -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly21Title">Преобразование сильного магнитного поля</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly21Description">Воспользовавшись естественным сильным магнитным полем, можно создать защитную плазмосферу над всей планетой.</LocalizationPair>
+   
+  <!-- 22 is Kessler Syndrome (Negative) -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly22Title">Преобразовать синдром Кесслера</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly22Description">Сметите орбитальный мусор в аккуратные и привлекательные кольца.</LocalizationPair>
+   
+  <!-- 23 is Acid Rain (Negative) -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly23Title">Улучшение кислотного дождя</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly23Description">Может быть, когда кислотные дожди станут под контролем, эти вулканические фумаролы можно будет использовать в промышленности?</LocalizationPair>
+  
+  <!-- 24 is Irradiated (Negative) -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly24Title">Улучшить облучение</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly24Description">Изучить растительную жизнь этого когда-то облученного мира и посмотрите, что вы сможете найти.</LocalizationPair>
+  
+  <!-- 25-27 are moons  -->
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly28Title">Улучшить враждебную фауну</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly28Description">Приручите величественных хищников этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly28EnhancedTitle">Враждебная фауна</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly28EnhancedDescription">В то время как звери этой планеты сначала описывались как "гигантские", "первобытные" и "впечатляющие", в наши дни прилагательные будут иметь тенденцию к "компанейским", "послушным" и "как раз подходящего размера для езды".</LocalizationPair>
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly29Title">Улучшение древних руин</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly29Description">Раскопать и исследовать древние руины.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly29EnhancedTitle">Древние руины</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly29EnhancedDescription">Руины здесь были тщательно раскопаны, и, к сожалению, мы должны заключить, что прежние обитатели этой планеты были примитивным, доэлектрическим видом, чьи научные знания не предлагают нам ничего нового. Однако от раскопанных руин захватывает дух от дизайна и туризм процветает.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly30Title">Улучшение пыльной жилы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly30Description">Составить карту пылевых залежей и попытаться выяснить, откуда они взялись.</LocalizationPair>
+  
+  <LocalizationPair Name="%PlanetAnomaly30EnhancedTitle">Пыльная жила</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly30EnhancedDescription">Следуя по следам Пыли, проникшей в земную кору, наши ученые обнаружили и перепрофилировали укрепленные подземные сооружения Вечных, из-за которых она туда попала.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly31Title">Улучшение коралловых рифов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly31Description">Разработать программу по охране естественной красоты коралловых рифов.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly31EnhancedTitle">Коралловые рифы</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly31EnhancedDescription">Тщательно охраняемые коралловые рифы этого мира теперь являются признанным во всей галактике символом природной красоты.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly32Title">Улучшение киберфлоры</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly32Description">Изучить странную кибернетическую флору и найти ей хорошее применение.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly32EnhancedTitle">Киберфлора</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly32EnhancedDescription">Оказывается, так называемый "киберлишайник" при определенных условиях образует естественную нейронную сеть. Это позволяет выращивать жизненно важные компоненты исследовательских мейнфреймов и шпионских суперкомпьютеров на горшках с агаром, а не создавать целые системы для этого.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly33Title">Улучшение странных окаменелостей</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly33Description">Изучить окаменелости, может они являются чем-то большим, чем просто диковинкой.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly33EnhancedTitle">Странные окаменелости</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly33EnhancedDescription">Ваши ученые обнаружили связь между экологией древних, ныне окаменелых организмов и залежами полезных ископаемых в системе. Опираясь на эти знания, можно открыть новые источники ресурсов.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly34Title">Улучшение микрофабрик</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly34Description">Изучить атмосферные микрофабрики.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly34EnhancedTitle">Микрофабрики</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly34EnhancedDescription">Теперь, когда коды управления микрофабриками Вечных расшифрованы, их влияние на производство продуктов питания было усилено.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly35Title">Улучшение мутировавшей флоры</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly35Description">Каталогизировать обширный массив мутировавшей флоры на планете.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly35EnhancedTitle">Мутировавшая флора</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly35EnhancedDescription">Наконец-то мы точно каталогизировали абсурдное изобилие флоры на этой планете, и точно знаем какие их них токсичны, вызывают аллергию или очень подвижны. Пищевая промышленность для гурманов стала более разнообразной, чем когда-либо, и работа шеф-повара-экспериментатора требует меньшего вознаграждения за работу в опасных условиях.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly36Title">Улучшение низкой гравитации</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly36Description">Адаптировать местную архитектуру, чтобы воспользоваться преимуществами низкой гравитации.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly36EnhancedTitle">Низкая гравитация</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly36EnhancedDescription">Местная архитектура адаптировалась к низкой гравитации: парящие мосты и возвышающиеся игольчатые шпили стали обычным явлением, и все они строятся из недорогих материалов.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly37Title">Улучшение пустынных городов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly37Description">Провести археологические исследования заброшенных городов.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly37EnhancedTitle">Пустынные города</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly37EnhancedDescription">С завершением работы археологов началась реконструкция и заселение заброшенных городов мира. Многие здания остались в первозданном виде, как памятники тем, кто жил тут раньше, в то время как другие стали промышленными центрами или научно-исследовательскими институтами.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly38Title">Улучшение раскаленных источников</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly38Description">Построить перерабатывающие заводы для сбора расплавленного металла.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly38EnhancedTitle">Раскаленные источники</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly38EnhancedDescription">Перерабатывающие заводы, построенные над раскаленными источниками планеты, извлекают и очищают ценные материалы из сгустков раскаленного добела металла. Некоторая часть из них осталась в первозданном виде в качестве зрелищных (хотя и опасных) туристических направлений.</LocalizationPair>
+  
+  <!-- I can't think how to fit Hyperium into this one, since it's a compound generally found in the oceans or atmosphere, not the crust. -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly39Title">Улучшение расколотой коры</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly39Description">Пополнить туристическую индустрию захватывающими дух природными ландшафтами.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly39EnhancedTitle">Расколотая кора</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly39EnhancedDescription">Поверхность этой планеты представляет собой буйство утесов, ущелий, хребтов и шипов, пересекаемых парящими мостами, пронизанными впечатляющими туннелями, и открывающими прекрасные виды с высоты птичьего полета. Все для туристов.</LocalizationPair>
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly40Title">Улучшение Коматиитского вулкана</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly40Description">Изучить верхнюю мантию планеты с уклоном на искусственное образование вулканов.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly40EnhancedTitle">Коматиитский вулкан</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly40EnhancedDescription">Тщательное изучение местной геологии выявило способы вызвать образование новых Коматиитовых вулканов по требованию. Руководители отрасли сейчас рассматривают верхнюю мантию планеты как своего рода торговый автомат: вставляешь взрывчатку, получаешь магний.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly41Title">Улучшение благоприятных сезонов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly41Description">Изменить дизайн своих городов, чтобы воспользоваться сезонными вариациями.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly41EnhancedTitle">Благоприятные сезоны</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly41EnhancedDescription">Города на этой планете спроектированы с учетом сезонной погоды, поэтому летом никому не бывает жарко или слишком жарко, а зимой не бывает слишком холодно, мокро или серо от недостатка солнечного света. </LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly42Title">Улучшение природных бункеров</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly42Description">Извлечь данные из бункеров.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly42EnhancedTitle">Природные бункеры</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly42EnhancedDescription">Теперь, когда все банки знаний и ценные археологические находки из бункеров этой планеты извлечены, каталогизированы, сохранены и изучены, сами бункеры — миля за милей — перепрофилируются для ваших собственных центров обработки данных и научных архивов.</LocalizationPair>
+  
+  <!-- 43 is Poor Soil (Negative)  -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly43Title">Улучшение скудной почвы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly43Description">Обогатить почву планеты, чтобы выращивать некоторые культуры. Но зачем останавливаться только на этом? У вас уже есть инфраструктура, так что продолжайте, пока не получите сельскохозяйственный рай.</LocalizationPair>
+  
+	<!-- 44 is High Gravity (Negative)  -->
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly44Title">Улучшение высокой гравитации</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly44Description">Включить Гравитонную устовку на более высокий уровень мощности. Вы сможете еще больше снизить гравитацию, хоть ученые строят догатки, что планета может развалиться. </LocalizationPair>
+  
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly45Title">Улучшение песни Бегемота</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly45Description">Построить орбитальные места обитания, специально предназначенные для исполнения песни Бегемота.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly45EnhancedTitle">Песня Бегемота</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly45EnhancedDescription">Орбитальные места обитания были построены по образцу оперных театров и амфитеатров, чтобы каждый мог ощутить навязчивую эфирную песню планеты.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly46Title">Улучшение говорящего мира</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly46Description">Изучить загадочные радиопередачи.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly46EnhancedTitle">Говорящий мир</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly46EnhancedDescription">Специальное отслеживание сигнала и усилия по взлому кода выявили происхождение радиопередач, хотя и не их цель — они представляют собой не что иное, как непрерывную последовательность чисел, произносимых записанным голосом на языке Бетонных Вечных. Существует множество предположений относительно того, для чего.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly47Title">Улучшение ужасающей симметрии</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly47Description">Изучить симметричный мир и попытатся разобраться, как он стал таким.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly47EnhancedTitle">Ужасающая симметрия</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly47EnhancedDescription">Археологические исследования раскрыли происхождение и цель симметрии этого мира: когда-то он использовался Вечными как место для игр планетарного масштаба по развитии нации, расширении и войне. Симметричная структура позволяла обоим "игрокам" иметь одинаковые перспективы. Реальная жизнь, конечно, не настолько честна и сбалансирована.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly48Title">Улучшение высокоэнергетической плазмосферы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly48Description">Построить дополнительные пилоны для стабилизации плазмосферы.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly48EnhancedTitle">Высокоэнергетическая плазмосфера</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly48EnhancedDescription">Массивные пилоны на поверхности планеты стабилизируют и направляют естественную плазмосферу, давая всей системе щит, эквивалентный самым прочным бункерам.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly49Title">Улучшение ореола пыли</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly49Description">Изучить ореол пыли и удостоверится, действительно ли он разумен.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly49EnhancedTitle">Ореол пыли</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly49EnhancedDescription">Ответ на вопрос о разумности этих обширных полей жидкой реактивной Пыли получен. Хотя они и не разумны сами по себе, они могут связываться с человеком, усиленным Пылью, и повышать осведомленность этого человека пока тот находится на поверхности планеты.</LocalizationPair>
+  
+  <!-- CRESCENT ANOMALIES -->
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly50Title">Улучшение искусственной жизни</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly50Description">Изучить любопытную исскусственную жизнь.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly50EnhancedTitle">Искусственная жизнь</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly50EnhancedDescription">Хотя источник благотворного воздействия полумесяца на искусственную жизнь до сих пор остается загадкой, мы решили, что даже если мы не можем его понять, мы, безусловно, можем его использовать.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly51Title">Улучшение аккретора пыли</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly51Description">Изучить способность полумесяца притягивать пыль.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly51EnhancedTitle">Аккретор пыли</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly51EnhancedDescription">Вещества, притягивающие пыль, были идентифицированы. И хотя у нас недостаточно сырья, чтобы использовать их повсюду, мы максимально использовали то, что у нас было и превратили этот полумесяц в настоящую золотую жилу из пыли.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly52Title">Улучшение мерцающей материи</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly52Description">Изучить дематериализующуюся материю внутри этого полумесяца.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly52EnhancedTitle">Мерцающая материя</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly52EnhancedDescription">Периодически дематериализующаяся материя этого полумесяца была полностью стабилизирована, но по щелчку пальцев может снова стать нематериальной по команде. В промышленных секторах теперь используются машины, которые когда-то считались невозможными, с частями, движущимися друг через друга в элегантном автоматизированном балете.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly53Title">Улучшение псевдоатмосферы</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomaly53Description">Изучить атмосферное явление.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly53EnhancedTitle">Псевдоатмосфера</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly53EnhancedDescription">Псевдоатмосфера появилась при создании этого полумесяца. То, как свет проходит через него, создает уникальные визуальные эффекты, и мы, наконец, нашли несколько менее отвлекаемых ученых, которые помогут изучить это явление.</LocalizationPair>
+  
+  <!-- WONDER ANOMALIES -->
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder1Title">Улучшение пылевой туманности</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder1Description">Изучитт пылевую туманность и убедится, что она не вернется в режим «ненасытного самовоспроизведения».</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder1EnhancedTitle">Пылевая туманность</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder1EnhancedDescription">Некоторое время мы обоснованно опасались, что остатки эксперимента с самовоспроизводящейся Пылью могут снова активироваться и снова попытаться поглотить всю систему. После обширных исследований мы, наконец, пришли к выводу, что Пыль здесь инертна, неотличима от обычной Пыли и ее больше не нужно хранить отдельно от нее.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder2Title">Улучшение моста семнадцати тысяч островов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder2Description">Развить плавучие острова под новое, роскошное, хорошо защищенное жилье.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder2EnhancedTitle">Мост семнадцати тысяч островов</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder2EnhancedDescription">Архипелаг естественных островов, которые охватывают промежуток между поверхностью планеты и космосом, висят во тьме, как сверкающие ступени, и теперь покрыты одними из самых желанных (и лучше всех защищенных) домов в галактике.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder3Title">Улучшение падших садов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder3Description">Раскопать падшие сады, чтобы найти древние секреты кораблестроения.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder3EnhancedTitle">Падшие сады</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder3EnhancedDescription">Хотя местные религиозные секты были категорически против любого «осквернения» древних построек, их по-разному убеждали, умилостивляли, дискредитировали или просто игнорировали. Сокровища, выкопанные в садах, стоили затраченных усилий, так как корабли, построенные здесь, могли использовать легкие материалы корпуса и экзотические ядра двигателей, недоступные больше нигде в галактике. Некоторые секты до сих пор считают эти корабли святыми реликвиями.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder4Title">Улучшение платформы Ыс</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder4Description">Восстановить военные платформы космического дока.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder4EnhancedTitle">Платформа Ыс</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder4EnhancedDescription">Огромные космические доки над планетой, некогда крупнейшие верфи Бетонных Вечных, частично восстановлены. Хотя они больше не могут строить флоты, они предоставляют обширные плацдармы для войск.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder5Title">Улучшение Древа Миров</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder5Description">Изучить Древо Миров и попробовать его повторить.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder5EnhancedTitle">Древо Миров</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder5EnhancedDescription">Лучшие биоинженеры, наконец, придумали, как воспроизвести это великолепное дерево — правда, только с учетом уникальной геологии этой планеты и только в гораздо меньших масштабах. Ну, по крайней мере, в этой системе здания и даже целые города можно выращивать, а не строить.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder6Title">Улучшение туннельных слипгейтов</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyNaturalWonder6Description">Составить карту сети шлюзов и используйте ее с пользой.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder6EnhancedTitle">Туннельные слипгейты</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyNaturalWonder6EnhancedDescription">Природная аномалия, вероятность существования которой меньше нуля. Эта серия естественных квантово-связанных транспортных шлюзов создает "туннели" от поверхностей планет до различных точек звездной системы. Теперь исследованные и нанесенные на карту меньшие по размеру и лучше замаскированные шлюзы можно использовать для скрытного перемещения войск.</LocalizationPair>
+
+  <!-- RUIN ANOMALIES - REDUCED -->
+
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterLargeTitle">Расчистить обломки</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterLargeDescription">Убрать орбитальный мусор вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterLargeReducedTitle">Большое поле лома</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterLargeReducedDescription">Место крупного сражения между воюющими империями. Потребуется какое-то время, чтобы очистить пространство от опасного мусора.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterMediumTitle">Расчистить поле обломков</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterMediumDescription">Убрать орбитальный мусор вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterMediumReducedTitle">Среднее поле лома</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterMediumReducedDescription">Место сражения между вражескими флотами. Потребуется какое-то время, чтобы очистить его от опасных обломков.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterSmallTitle">Расчистить поле обломков</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsEncounterSmallDescription">Убрать орбитальный мусор вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterSmallReducedTitle">Небольшое поле обломков</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterSmallReducedDescription">Немногое напоминает о произошедшей стычке. Даже орбитальные обломки особо не доставляют неудобств.</LocalizationPair>
+  
+  
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsMinorFactionTitle">Расчистить догалактическую архитектуру</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsMinorFactionDescription">Уберите то, что осталось от ваших битв с бывшей цивилизацией в этой системе.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsMinorFactionReducedTitle">Догалактическая архитектура</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsMinorFactionReducedDescription">Здесь была завоевана малая цивилизация, сопротивлявшаяся ассимиляции. А остались только руины.</LocalizationPair>
+  
+  
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairLargeTitle">Очистить пиратскую крепость</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairLargeDescription">Преследовать пиратов и разобраться с созданными ими беспорядками</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairLargeReducedTitle">Разрушенная пиратская крепость</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairLargeReducedDescription">Здесь была уничтожена процветающая пиратская колония. Остались лишь обломки.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairMediumTitle">Очистить пиратское логово</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairMediumDescription">Преследовать пиратов и разобраться с созданными ими беспорядками</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairMediumReducedTitle">Разрушенное пиратское логово</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairMediumReducedDescription">Когда-то здесь было убежище пиратов, но теперь остались только руины и обломки.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairSmallTitle">Очистить пиратское убежище</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsPirateLairSmallDescription">Преследовать пиратов и разобраться с созданными ими беспорядками</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairSmallReducedTitle">Разрушенное пиратское убежище</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairSmallReducedDescription">Когда-то это место удерживала небольшая банда пиратов, но они были изгнаны, а их убежище обратили в руины.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleLargeTitle">Очистить апокалиптический ландшафт</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleLargeDescription">Очистите поля сражений в этом истерзанном войной мире.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleLargeReducedTitle">Апокалиптический ландшафт</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleLargeReducedDescription">Здесь произошло грандиозное наземное сражение, в результате которого планета навсегда останется в ужасающих шрамах.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleMediumTitle">Очистить разоренные земли</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleMediumDescription">Очистите поля сражений в этом истерзанном войной мире.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleMediumReducedTitle">Разоренные земли</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleMediumReducedDescription">Здесь произошло наземное сражение. Планета медленно восстанавливается.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleSmallTitle">Очистить траншеи</LocalizationPair>
+  <LocalizationPair Name="%ToReducePlanetAnomalyRemainsGroundBattleSmallDescription">Очистите поля сражений в этом истерзанном войной мире.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleSmallReducedTitle">Траншеи</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleSmallReducedDescription">Здесь произошло небольшое столкновение, но следы военных действий уже пропадают.</LocalizationPair>
+
+  <!-- RUIN ANOMALIES - ENHANCED -->
+
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterLargeTitle">Улучшение поля обломков</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterLargeDescription">Исследовать остатки орбитального мусора вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterLargeEnhancedTitle">Большое поле обломков</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterLargeEnhancedDescription">Место крупного столкновения между воюющими империями, теперь очищенное от опасного орбитального мусора. Обломки также предоставили множество данных съемки, которые вы использовали для улучшения кораблей местного производства.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterMediumTitle">Улучшение Debris Field</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterMediumDescription">Исследовать остатки орбитального мусора вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterMediumEnhancedTitle">Среднее поле обломков</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterMediumEnhancedDescription">Место столкновения между флотами, теперь очищенное от опасного орбитального мусора. Обломки также предоставили множество данных съемки, которые вы использовали для улучшения кораблей местного производства.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterSmallTitle">Улучшение Debris Field</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsEncounterSmallDescription">Исследовать остатки орбитального мусора вокруг этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterSmallEnhancedTitle">Малое поле обломков</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsEncounterSmallEnhancedDescription">Напоминание о предыдущей стычке, теперь очищенной от опасных орбитальных обломков. Обломки также предоставили немного данных, которые вы использовали для улучшения кораблей местной постройки.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsMinorFactionTitle">Улучшение догалактической архитектуры</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsMinorFactionDescription">Изучить остатки второстепенной цивилизации в этом мире.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsMinorFactionEnhancedTitle">Догалактическая архитектура</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsMinorFactionEnhancedDescription">Незначительная цивилизация, которая сопротивлялась ассимиляции, была завоевана здесь. И хотя следов сражений не осталось, мы научились лучше бороться с чужеродными видами.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairLargeTitle">Улучшение пиратской крепости</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairLargeDescription">Перепрофилировать пиратскую технологию для собственного использования.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairLargeEnhancedTitle">Разрушенная пиратская крепость</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairLargeEnhancedDescription">Здесь была уничтожена процветающая колония пиратов. Они оставили после себя тяжелые вооружение типа земля-космос, которые теперь отремонтированы для вашего собственного использования.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairMediumTitle">Улучшение пиратского логова</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairMediumDescription">Перепрофилировать пиратскую технологию для собственного использования.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairMediumEnhancedTitle">Разрушенное пиратское логово</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairMediumEnhancedDescription">Когда-то здесь было убежище пиратов. Они оставили после себя лазерные установки, которые теперь отремонтированы для вашего собственного пользования.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairSmallTitle">Улучшение пиратского убежища</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsPirateLairSmallDescription">Перепрофилировать пиратскую технологию для собственного использования.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairSmallEnhancedTitle">Разрушенное пиратское убежище</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsPirateLairSmallEnhancedDescription">Когда-то это место занимала небольшая банда пиратов. Они оставили после себя орудия точечной обороны, которые теперь отремонтированы для вашего собственного использования.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleLargeTitle">Улучшение апокалиптического ландшафта</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleLargeDescription">Отремонтировать укрепления, которые все еще остались на полях сражений.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleLargeEnhancedTitle">Апокалиптический ландшафт</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleLargeEnhancedDescription">Здесь произошло грандиозное наземное сражение, и ваши собственные военные хорошо использовали километры туннелей и бункеров.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleMediumTitle">Улучшение разоренных земель</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleMediumDescription">Отремонтировать укрепления, которые все еще остались на полях сражений.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleMediumEnhancedTitle">Разоренные земли</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleMediumEnhancedDescription">Здесь произошло наземное сражение, и ваши собственные войска хорошо использовали оставшиеся укрепления.</LocalizationPair>
+    
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleSmallTitle">Улучшение траншей</LocalizationPair>
+  <LocalizationPair Name="%ToEnhancePlanetAnomalyRemainsGroundBattleSmallDescription">Отремонтировать укрепления, которые все еще остались на полях сражений.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleSmallEnhancedTitle">Траншеи</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomalyRemainsGroundBattleSmallEnhancedDescription">Здесь произошло небольшое столкновение, и ваши вооруженные силы хорошо использовали окопы и воронки.</LocalizationPair>
+  
+  <!-- MIXED & NEGATIVE - REDUCED -->
+  <LocalizationPair Name="%ToReduceAnomaly10Title">Подавить Лед-10</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly10Description">Разрабатывать строительные материалы, с помощью которых можно построить устойчивые дороги над полями Льда-10.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly10ReducedTitle">Лед-10</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly10ReducedDescription">Лед-10 — редкая форма льда, образующаяся в результате кристаллизации воды под высоким давлением, интересна своими термодинамическими свойствами. Совместные усилия инженеров планеты привели к уменьшению ее негативных последствий.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly11Title">Подавить постоянный муссон</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly11Description">Начать терраформирование, чтобы взять под контроль сезон дождей.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly11ReducedTitle">Постоянный муссон</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly11ReducedDescription">Согласованные усилия по частичному терраформированию планеты уменьшили силу ветров и штормов.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly12Title">Подавить металлические воды</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly12Description">Разработать искусственную почву, которая сможет смягчить странное поверхностное условие этой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly12ReducedTitle">Металлические воды</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly12ReducedDescription">Почти чистая, твердая, блестящая поверхность этой планеты раньше делала сельское хозяйство трудным и потенциально ядовитым. Однако недавние улучшения в развитии почвы облегчили проблему.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly13Title">Подавить волны Авроры</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly13Description">Развернуть магнитное экранирование, чтобы уменьшить разрушительное воздействие волн северного сияния.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly13ReducedTitle">Волны Авроры</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly13ReducedDescription">Сверкающие разноцветные полярные сияния, которые когда-то вызывали такие головные боли, были частично приручены магнитным экранированием. К счастью, их красота осталась, даже несмотря на то, что их отрицательные эффекты были уменьшены.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly15Title">Подавить психоактивный воздух</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly15Description">Распылить мелкие кристаллы в атмосферу, чтобы стимулировать проливные дожди и убрать из воздуха психоактивные вещества.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly15ReducedTitle">Психоактивный воздух</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly15ReducedDescription">С атмосферой, которая когда-то была насыщена сложными химическими соединениями, жизнь на этой планете была сложной задачей. Однако применение технологий терраформирования сделало воздействие воздуха менее интенсивным.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly16Title">Подавить геотермальную активность</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly16Description">Установить передовую станцию управления гравитацией, чтобы контролировать непредсказуемую мантию планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly16ReducedTitle">Геотермальная активность</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly16ReducedDescription">Применяя огромное количество энергии и борясь с гравитационными изменениями, ранее неконтролируемая геотермальная активность планеты теперь несколько менее интенсивна.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly17Title">Подавить сейсмическую активность</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly17Description">Установить передовую станцию управления гравитацией, чтобы контролировать непредсказуемую мантию планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly17ReducedTitle">Сейсмическая активность</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly17ReducedDescription">Благодаря управлению магнитным ядром, стабилизации континентального дрейфа и совершенствованию методов строительства - проблемы в повседневной жизни, вызванные сейсмической активностью, заметно уменьшились.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly18Title">Подавить длинные сезоны</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly18Description">Нанять команду климатологов, архитекторов и специалистов в области сельского хозяйства, чтобы сделать жизнь на этой планете приятнее.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly18ReducedTitle">Длинные сезоны</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly18ReducedDescription">В то время как длинный орбитальный эллипс остается реальностью, применение наук о терраформировании, передовой архитектуры и улучшенного сельского хозяйства превратило его из риска для здоровья в причудливое туристическое приключение.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly19Title">Подавить метеоритные дожди</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly19Description">Развернуть так называемые "спутники-убийцы", чтобы сбивать метеориты до того, как они упадут.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly19ReducedTitle">Метеоритные дожди</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly19ReducedDescription">Впервые в истории Вселенной фраза «спутники-убийцы» действительно имеет практическое значение. Благодаря дешевым и надежным источникам энергии и сильно защищенным орбитальным станциям - основные метеоритные угрозы нейтрализуются высоко в атмосфере.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly20Title">Подавить полярные бури</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly20Description">Нанять команду климатологов, архитекторов и экспертов по выживанию при холодном климате, чтобы сделать жизнь на этой планете более приятной.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly20ReducedTitle">Полярные бури</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly20ReducedDescription">Контролируемое глобальное потепление, передовая термоэффективная архитектура и действительно теплые парки значительно уменьшили негативные последствия этой аномалии.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly21Title">Подавить магнитное поле</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly21Description">Отправить команду ученых, чтобы они разработали решение проблем с магнитным полем.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly21ReducedTitle">Сильное магнитное поле</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly21ReducedDescription">Как только технология направленного небарионного магнитного потока была уменьшена до размера портативного устройства, негативное воздействие этой аномалии значительно уменьшилось.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly22Title">Подавить синдром Кесслера</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly22Description">Начать неприглядную и дорогостоящую программу по сметанию мусора с орбиты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly22ReducedTitle">Синдром Кесслера</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly22ReducedDescription">Хотя это потребовало времени, терпения и очень больших сетей - большая часть орбитального мусора, который циркулировал по планете, была уничтожена или сброшена на планету для дальнейшей переработки.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly23Title">Подавить кислотные дожди</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly23Description">Создать новые кислотостойкие материалы для использования в строительстве и дайте задачу сделать что-нибудь с фумаролами.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly23ReducedTitle">Кислотные дожди</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly23ReducedDescription">Частично за счет уменьшения воздействия фумарол и частично за счет укрепления инфраструктуры многие проблемы, вызванные этой аномалией, были смягчены.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly24Title">Подавить облучение</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly24Description">Создать крупные химические заводы с задачей укрепить озоновый слой планеты.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly24ReducedTitle">Облученная</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly24ReducedDescription">Благодаря разработке и улучшению озонового слоя и атмосферы - большая часть опасных последствий солнечного излучения была устранена.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly28Title">Подавить враждебную фауну</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly28Description">Пусть ваши лучшие экологи поработают над программой приручения местной дикой природы.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly28ReducedTitle">Покорная фауна</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly28ReducedDescription">В то время как звери этой планеты сначала описывались как "гигантские", "первобытные" и "впечатляющие", в наши дни прилагательные будут иметь тенденцию к "контролируемым", "управляемым" и "вкусным".</LocalizationPair>
+  
+  <LocalizationPair Name="%ToReduceAnomaly39Title">Подавить расколотую кору</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly39Description">Финансировать обширную программу инженерных проектов, чтобы создать на этой планете функционирующую транспортную сеть, несмотря на ландшафт.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly39ReducedTitle">Тоннельная кора</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly39ReducedDescription">Хотя поверхность этой планеты остается неровной, несколько инженерных проектов, связанных с виадуками и туннелями, сделали эту проблему несущественной. К счастью, пейзаж остается впечатляющим.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToReduceAnomaly43Title">Подавить бедную почву</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly43Description">Финансировать развертывание новых заводов по производству удобрений.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly43ReducedTitle">Пахотная почва</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly43ReducedDescription">Бедная почва планеты теперь насыщена органической жизнью, необходимой для сельского хозяйства.</LocalizationPair>
+  
+  <LocalizationPair Name="%ToReduceAnomaly44Title">Подавить высокую гравитацию</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly44Description">Отклоните возражения населения против "безумной, непроверенной науки" и "игры в бога" и включите наконец двигатель Гравитонной установки.</LocalizationPair>
+  
+  <LocalizationPair Name="%PlanetAnomaly44ReducedTitle">Приемлимая гравитация</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly44ReducedDescription">Благодаря простому и прямолинейному процессу переброски избыточных гравитонов через гиперпространства в параллельную вселенную ранее экстремальная гравитация планеты была несколько снижена.</LocalizationPair>
+
+<!-- Crescent anomalies -->
+
+  <LocalizationPair Name="%ToReduceAnomaly52Title">Подавить мерцающую материю</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly52Description">Изучить мерцающую материю, чтобы проверить предсказуема ли ее дематериализация.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly52ReducedTitle">Мерцающая материя</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly52ReducedDescription">Материя по-прежнему склонна к мерцанию, но теперь можно достаточно точно предсказать эти изменения. Больше никаких самопроизвольных исчезновений кораблей из строительных ангаров.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly53Title">Подавить псевдоатмосферу</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly53Description">Создать и продвинуть исследовательскую группу для изучения псевдоатмосферы.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly53ReducedTitle">Псевдоатмосфера</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly53ReducedDescription">Все, что требовалось, — это поощрить изучение светящихся явлений этой псевдоатмосферы, чтобы жители этого полумесяца вновь обрели интерес к науке.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly54Title">Подавить низкокачественные фундаменты</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly54Description">Начните долгий и малопривлекательный процесс укрепления фундамента полумесяца.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly54ReducedTitle">Низкокачественные фундаменты</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly54ReducedDescription">После долгих и утомительных усилий все недочеты в Полумесяце были устранены. Слишком частые сбои теперь стали просто плохим воспоминанием.</LocalizationPair>
+
+  <LocalizationPair Name="%ToReduceAnomaly55Title">Подавить необитаемую территорию</LocalizationPair>
+  <LocalizationPair Name="%ToReduceAnomaly55Description">Сосредоточьтесь на переработке структуры полумесяца, чтобы восстановить обитаемость.</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly55ReducedTitle">Необитаемая территория</LocalizationPair>
+  <LocalizationPair Name="%PlanetAnomaly55ReducedDescription">Необитаемый участок полумесяца наконец-то переработан, все вернулось на круги своя. Если полумесяцы вообще были в норме.</LocalizationPair>
+
+  <!-- Empire Improvement -->
+  <LocalizationPair Name="%EmpireImprovementAnomalyReduction1EffectOverride">Позволяет подавлять аномалии
+
+Подавление аномалий позволяет устранить негативные эффекты аномалии.</LocalizationPair>
+
+  <LocalizationPair Name="%EmpireImprovementAnomalyReduction2EffectOverride">Позволяет улучшать аномалии
+  
+Улучшение аномалии позволяет увеличить положительные эффекты положительной или подавленной аномалии.</LocalizationPair>
+
+  <!-- Political Event -->
+  <LocalizationPair Name="%PopulationPoliticalEventEnhancedAnomalyTitle">Аномалия улучшена</LocalizationPair>
+
+  <!-- Failure Message -->
+  <LocalizationPair Name="%FailureEnhancementEcologistsDescription">Улучшение аномалии требует правящую партию [ecologistColored] #B0C65D#Экологистов#REVERT#.</LocalizationPair>
+
+  <!-- Reduction dropdown tooltip -->
+  <LocalizationPair Name="%PlanetReduceAnomalyButtonDescription">Щелкните, чтобы выбрать улучшение аномалии для этой планеты.</LocalizationPair>
+</Datatable>
